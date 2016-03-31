@@ -39,17 +39,16 @@ Goal: Create a public open source repository of your website.
 
 ### Homework, Watch these Videos
 
-- Structure of the Internet
-https://www.khanacademy.org/computing/computer-science/internet-intro
+#### Structure of the Internet
+- https://www.khanacademy.org/computing/computer-science/internet-intro
 
-- Github
-https://css-tricks.com/video-screencasts/117-lets-attempt-to-do-a-pull-request/
-https://css-tricks.com/video-screencasts/101-lets-suck-at-github-together/
+#### Github
+- https://css-tricks.com/video-screencasts/117-lets-attempt-to-do-a-pull-request/
+- https://css-tricks.com/video-screencasts/101-lets-suck-at-github-together/
 
-- Command-Line
-https://developers.google.com/web/shows/ttt/series-1/cmd-line-shortcuts?hl=en
-https://developers.google.com/web/shows/ttt/series-1/cmd-line?hl=en
-
+#### Command-Line
+- https://developers.google.com/web/shows/ttt/series-1/cmd-line-shortcuts?hl=en
+- https://developers.google.com/web/shows/ttt/series-1/cmd-line?hl=en
 
 
 

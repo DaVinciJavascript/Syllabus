@@ -4,25 +4,9 @@
 
 - You must have a newish Apple laptop, OS X version 10.7 or later.
 
-- Watch "The Better Parts" on Vimeo https://vimeo.com/97419177
-You won't understand everything, but it will be good exposure. Douglas offers the best advice available for how to write Javascript. Take notes of any questions that you have along the way.
+- Watch "The Better Parts" on Vimeo https://vimeo.com/97419177. You won't understand everything, but it will be good exposure. Douglas offers the best advice available for how to write Javascript. Take notes of any questions that you have along the way.
 
-- Create free accounts on Github.com and Codepen.io
-Please make your username and password easy to type. You will need to type them many times.
-
-- Download and install Sublime Text 3, 
-
-When you install Sublime 3, it will open a folder with an icon called Sublime 2 and an Applications folder. Drag the icon into the Applications folder.
-
-Then install Github Desktop.
-
-Then install Node.js 
-Node installs as a command-line utility, there is no icon for it in your Applications folder.
-
-Then install Heroku Toolbelt.
-Node installs as a command-line utility, there is no icon for it in your Applications folder.
-
-
+- Create free accounts on Github.com, Stackoverflow.com, and Codepen.io. Please make your username and password easy to type. You will need to type them many times.
 
 
 ## Outline

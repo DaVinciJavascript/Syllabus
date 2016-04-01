@@ -5,7 +5,7 @@
 
 - Learning CSS
 - Tour of CSS
-- CSS for layout
+- CSS for Layout
 - Bootstrap Revisited
 - Publishing to CodePen
 
@@ -26,7 +26,7 @@
 - https://developer.mozilla.org/en-US/docs/Web/CSS
 
 #### Snippets (pick 4)
-https://css-tricks.com/snippets/
+- https://css-tricks.com/snippets/
 
 
 
@@ -77,4 +77,6 @@ Goal: Design a Todo application with HTML and CSS.
 #### Web Animation
 - http://alistapart.com/article/web-animation-past-present-and-future
 
+#### Code Review
+https://addyosmani.com/blog/lessons-from-a-javascript-code-review/
 

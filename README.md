@@ -16,7 +16,7 @@
 - Publish a live website within the first week.
 - Create a public open source repository of your website.
 
-### Week 2 : CSS
+### Week 2 : CSS Advanced
 - Design a Todo application with HTML and CSS.
 - Publish a CSS design on Codepen.
 

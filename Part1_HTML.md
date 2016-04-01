@@ -16,7 +16,7 @@ Then install Github Desktop. Launch it and "Check for Updates".
 
 Then install Node.js. Node installs as a command-line utility, there is no icon for it in your Applications folder.
 
-Then install Heroku Toolbelt. Node installs as a command-line utility, there is no icon for it in your Applications folder.
+Then install Heroku Toolbelt. Heroku Toolbelt installs as a command-line utility, there is no icon for it in your Applications folder.
 
 
 
@@ -24,8 +24,7 @@ Then install Heroku Toolbelt. Node installs as a command-line utility, there is 
 
 ## Monday, April 11 | Going Live!
 
-Goal: Publish a live website.
-Goal: Create a public open source repository of your website.
+Goal: Publish a live website & create a public open source repository of your website.
 
 - Course Introduction
 - A Brief History of Computing
@@ -40,8 +39,7 @@ Goal: Create a public open source repository of your website.
 #### Structure of the Internet (6 videos)
 - https://www.khanacademy.org/computing/computer-science/internet-intro
 
-#### Github (2 videos)
-- https://css-tricks.com/video-screencasts/117-lets-attempt-to-do-a-pull-request/
+#### Github (1 video)
 - https://css-tricks.com/video-screencasts/101-lets-suck-at-github-together/
 
 

@@ -40,7 +40,7 @@ Goal: Create a public open source repository of your website.
 #### Structure of the Internet (6 videos)
 - https://www.khanacademy.org/computing/computer-science/internet-intro
 
-#### Github
+#### Github (2 videos)
 - https://css-tricks.com/video-screencasts/117-lets-attempt-to-do-a-pull-request/
 - https://css-tricks.com/video-screencasts/101-lets-suck-at-github-together/
 
@@ -57,11 +57,12 @@ Goal: Create a public open source repository of your website.
 
 ### Homework
 
-#### HTML
 
-http://www.w3schools.com/html/
+# HTML (5 videos)
 
-#### Photoshop
+https://www.khanacademy.org/computing/computer-programming/html-css
+
+#### Photoshop (4 videos)
 https://css-tricks.com/video-screencasts/16-creating-the-photoshop-mockup/
 https://css-tricks.com/video-screencasts/71-building-a-website-photoshop-mockup/
 https://css-tricks.com/video-screencasts/72-building-a-website-2-of-3-htmlcss-conversion/
@@ -69,18 +70,30 @@ https://css-tricks.com/video-screencasts/49-hodgepodge-of-photoshop-tricks/
 
 
 
+## Friday, April 15th | Learning HTML
 
+- Learning HTML
+- Semantics
+- Bootstrap Grid Layout
+- Text & Images
+- Tour of the Chrome Dev Tools
+- HTML on CodePen
 
-## Friday, April 15th
+### Homework
 
+#### Semantics
+https://css-tricks.com/video-screencasts/100-lets-write-semantic-markup/
 
+#### Chrome Dev Tools
+https://vimeo.com/160593679
+https://addyosmani.com/blog/devtools-incrementing-css-values/
 
+#### Review
+http://www.w3schools.com/html/
+http://getbootstrap.com/css/#grid
 
-
-
-
-
-
+#### Task
+Pick out one site you think is good from http://www.awwwards.com/
 
 
 

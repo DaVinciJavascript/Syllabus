@@ -45,6 +45,7 @@ Goal: Create a public open source repository of your website.
 - https://css-tricks.com/video-screencasts/101-lets-suck-at-github-together/
 
 
+
 ## Wednesday, April 13th | Dev Tools
 
 - Module Loaders, Require.js
@@ -54,26 +55,26 @@ Goal: Create a public open source repository of your website.
 - A Brief History of Web Design
 - A Tour of Photoshop
 
-
 ### Homework
 
+#### HTML (5 videos)
 
-# HTML (5 videos)
+- https://www.khanacademy.org/computing/computer-programming/html-css
 
-https://www.khanacademy.org/computing/computer-programming/html-css
-
-#### Photoshop (4 videos)
-https://css-tricks.com/video-screencasts/16-creating-the-photoshop-mockup/
-https://css-tricks.com/video-screencasts/71-building-a-website-photoshop-mockup/
-https://css-tricks.com/video-screencasts/72-building-a-website-2-of-3-htmlcss-conversion/
-https://css-tricks.com/video-screencasts/49-hodgepodge-of-photoshop-tricks/
-
+#### Photoshop (5 videos)
+- https://css-tricks.com/video-screencasts/124-a-modern-web-designers-workflow/
+- https://css-tricks.com/video-screencasts/16-creating-the-photoshop-mockup/
+- https://css-tricks.com/video-screencasts/71-building-a-website-photoshop-mockup/
+- https://css-tricks.com/video-screencasts/72-building-a-website-2-of-3-htmlcss-conversion/
+- https://css-tricks.com/video-screencasts/49-hodgepodge-of-photoshop-tricks/
 
 
-## Friday, April 15th | Learning HTML
+
+## Friday, April 15th | HTML
 
 - Learning HTML
-- Semantics
+- Tour of HTML
+- Semantics & Accessibility
 - Bootstrap Grid Layout
 - Text & Images
 - Tour of the Chrome Dev Tools
@@ -81,19 +82,19 @@ https://css-tricks.com/video-screencasts/49-hodgepodge-of-photoshop-tricks/
 
 ### Homework
 
-#### Semantics
-https://css-tricks.com/video-screencasts/100-lets-write-semantic-markup/
+#### Semantics (1 video)
+- https://css-tricks.com/video-screencasts/100-lets-write-semantic-markup/
 
-#### Chrome Dev Tools
-https://vimeo.com/160593679
-https://addyosmani.com/blog/devtools-incrementing-css-values/
+#### Chrome Dev Tools (2 videos)
+- https://vimeo.com/160593679
+- https://addyosmani.com/blog/devtools-incrementing-css-values/
 
-#### Review
-http://www.w3schools.com/html/
-http://getbootstrap.com/css/#grid
+#### Review (2 sites)
+- http://www.w3schools.com/html/
+- http://getbootstrap.com/css/#grid
 
-#### Task
-Pick out one site you think is good from http://www.awwwards.com/
+#### Task (1 task)
+- Pick out one site you think is good from http://www.awwwards.com/
 
 
 

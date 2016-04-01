@@ -37,18 +37,12 @@ Goal: Create a public open source repository of your website.
 
 ### Homework, Watch these Videos
 
-#### Structure of the Internet
+#### Structure of the Internet (6 videos)
 - https://www.khanacademy.org/computing/computer-science/internet-intro
 
 #### Github
 - https://css-tricks.com/video-screencasts/117-lets-attempt-to-do-a-pull-request/
 - https://css-tricks.com/video-screencasts/101-lets-suck-at-github-together/
-
-#### Command-Line
-- https://developers.google.com/web/shows/ttt/series-1/cmd-line-shortcuts?hl=en
-- https://developers.google.com/web/shows/ttt/series-1/cmd-line?hl=en
-
-
 
 
 ## Wednesday, April 13th | Dev Tools
@@ -61,17 +55,11 @@ Goal: Create a public open source repository of your website.
 - A Tour of Photoshop
 
 
-### Homework, Watch these Videos
+### Homework
 
-#### What are Module Loaders?
-http://www.creativebloq.com/javascript/essential-javascript-top-five-script-loaders-8122862
+#### HTML
 
-#### Webpack vs Browserify
-https://medium.com/@housecor/browserify-vs-webpack-b3d7ca08a0a9#.pcjk423pa
-http://stackoverflow.com/questions/35062852/npm-vs-bower-vs-browserify-vs-gulp-vs-grunt-vs-webpack
-
-#### Babel
-https://www.quora.com/What-exactly-is-BabelJs-Why-does-it-understand-JSX-React-components
+http://www.w3schools.com/html/
 
 #### Photoshop
 https://css-tricks.com/video-screencasts/16-creating-the-photoshop-mockup/

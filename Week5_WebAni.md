@@ -52,4 +52,10 @@ Goal: Publish a web animation on Codepen.
 
 ### Homework
 
+#### SVG
+- https://css-tricks.com/video-screencasts/137-svg-is-for-everybody/
+- https://css-tricks.com/video-screencasts/135-three-ways-animate-svg/
+- http://code.tutsplus.com/tutorials/building-a-multi-line-chart-using-d3js--cms-22935
+
+
 

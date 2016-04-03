@@ -40,9 +40,9 @@
 ### Homework
 
 #### Documentation (3 sites)
-- http://www.w3schools.com/bootstrap/default.asp
 - https://getbootstrap.com/components/
 - https://getbootstrap.com/javascript/
+- http://www.w3schools.com/bootstrap/default.asp
 
 
 

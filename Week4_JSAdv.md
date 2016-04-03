@@ -49,7 +49,8 @@ Goal: Create a working Todo application that uses Local Storage.
 
 ### Homework
 
-#### Web Animation (1 article)
+#### Web Animation (2 articles)
+- http://webdesign.tutsplus.com/tutorials/adding-appeal-to-your-animations-on-the-web--cms-23649
 - http://alistapart.com/article/web-animation-past-present-and-future
 
 

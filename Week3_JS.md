@@ -26,6 +26,7 @@
 
 
 
+
 ## Wednesday, April 27th | jQuery
 
 - jQuery Documentation
@@ -39,22 +40,31 @@
 ### Homework
 
 #### Documentation (3 sites)
-http://www.w3schools.com/bootstrap/default.asp
-https://getbootstrap.com/components/
-https://getbootstrap.com/javascript/
+- http://www.w3schools.com/bootstrap/default.asp
+- https://getbootstrap.com/components/
+- https://getbootstrap.com/javascript/
 
 
 
 
 ## Friday, April 29th | Bootstrap
 
-Goal: Design a Todo application with Bootstrap.
+Goal: Design a working Todo application with Bootstrap and jQuery.
 
 - Bootstrap Components
 - Bootstrap Javascript
 
 
 ### Homework
+
+#### Crushing Bugs (3 videos)
+- https://addyosmani.com/blog/chrome-devtools-deepdive/
+- https://addyosmani.com/blog/essential-js-namespacing/
+- https://vimeo.com/133137606
+
+#### Command-Line (2 videos)
+- https://developers.google.com/web/shows/ttt/series-1/cmd-line-shortcuts?hl=en
+- https://developers.google.com/web/shows/ttt/series-1/cmd-line?hl=en
 
 
 

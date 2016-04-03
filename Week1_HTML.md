@@ -91,8 +91,8 @@ Goal: Publish a live website & create a public open source repository of your we
 - http://www.w3schools.com/html/
 - http://getbootstrap.com/css/#grid
 
-#### Task (1 task)
-- Pick out one site you think is good from http://www.awwwards.com/
+#### Task (1 site)
+Pick out one site you think is good from http://www.awwwards.com/
 
 
 

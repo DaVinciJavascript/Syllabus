@@ -79,12 +79,11 @@ Goal: Design a Todo application with HTML and CSS.
 ### Homework
 
 #### Code Review (1 video)
-https://addyosmani.com/blog/lessons-from-a-javascript-code-review/
+- https://addyosmani.com/blog/lessons-from-a-javascript-code-review/
 
 #### Javascript (22 videos)
-https://www.khanacademy.org/computing/computer-programming/html-css-js
+- https://www.khanacademy.org/computing/computer-programming/html-css-js
 
-#### Web Animation (1 article)
-- http://alistapart.com/article/web-animation-past-present-and-future
+
 
 

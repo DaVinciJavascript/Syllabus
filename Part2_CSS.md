@@ -6,24 +6,27 @@
 - Learning CSS
 - Tour of CSS
 - CSS for Layout
-- Bootstrap Revisited
+- Bootstrap CSS
 - Publishing to CodePen
+
 
 ### Homework
 
-#### CSS (5 videos)
+#### CSS (5 videos, 1 Article)
 - https://css-tricks.com/video-screencasts/110-quick-overview-of-css-position-values/
 - https://css-tricks.com/video-screencasts/47-css-shorthand/
 - https://css-tricks.com/video-screencasts/10-fixed-width-fluid-width-elastic-width/
 - https://css-tricks.com/video-screencasts/5-columns-of-equal-height-super-simple-two-column-layout/
 - https://css-tricks.com/video-screencasts/42-all-about-floats-screencast/
+- http://webdesign.tutsplus.com/tutorials/how-to-make-responsive-scrollable-panels-with-flexbox--cms-23269
 
 #### Codepen (1 video)
 - https://css-tricks.com/video-screencasts/112-using-codepen/
 
-#### Review (2 sites)
+#### Documentation (3 sites)
 - http://www.w3schools.com/css/default.asp
 - https://developer.mozilla.org/en-US/docs/Web/CSS
+- https://getbootstrap.com/css/
 
 #### Snippets (pick 4)
 - https://css-tricks.com/snippets/
@@ -33,6 +36,8 @@
 
 
 ## Wednesday, April 20th | CSS Advanced
+
+Goal: Publish a CSS design on Codepen
 
 - Web Fonts
 - HTML Templates
@@ -57,7 +62,7 @@
 #### Accessibility (1 video)
 - https://css-tricks.com/video-screencasts/51-a-lesson-learned-in-accessibility/
 
-#### Challenge: Publish a CSS design on Codepen
+#### CSS Design (4 sites)
 - http://www.cssdesignawards.com/
 - http://swissincss.com/
 - http://motionographer.com/2016/03/31/one-year-of-9-squares/
@@ -71,12 +76,15 @@
 Goal: Design a Todo application with HTML and CSS.
 
 
-
 ### Homework
 
-#### Web Animation
+#### Code Review (1 video)
+https://addyosmani.com/blog/lessons-from-a-javascript-code-review/
+
+#### Javascript (22 videos)
+https://www.khanacademy.org/computing/computer-programming/html-css-js
+
+#### Web Animation (1 article)
 - http://alistapart.com/article/web-animation-past-present-and-future
 
-#### Code Review
-https://addyosmani.com/blog/lessons-from-a-javascript-code-review/
 

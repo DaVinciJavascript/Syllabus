@@ -12,7 +12,7 @@
 
 ### Homework
 
-#### CSS (5 videos, 1 Article)
+#### CSS (5 videos, 1 article)
 - https://css-tricks.com/video-screencasts/110-quick-overview-of-css-position-values/
 - https://css-tricks.com/video-screencasts/47-css-shorthand/
 - https://css-tricks.com/video-screencasts/10-fixed-width-fluid-width-elastic-width/
@@ -71,7 +71,7 @@ Goal: Publish a CSS design on Codepen
 
 
 
-## Friday, April 22th
+## Friday, April 22th | Hands On
 
 Goal: Design a Todo application with HTML and CSS.
 

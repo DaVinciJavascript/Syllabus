@@ -34,6 +34,8 @@ Goal: Publish a live website & create a public open source repository of your we
 - How to use Stackoverflow
 - Publishing a live Website with Heroku
 
+
+
 ### Homework, Watch these Videos
 
 #### Structure of the Internet (6 videos)

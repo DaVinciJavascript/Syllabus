@@ -53,6 +53,9 @@ Goal: Create a working Todo application that uses Local Storage.
 - http://webdesign.tutsplus.com/tutorials/adding-appeal-to-your-animations-on-the-web--cms-23649
 - http://alistapart.com/article/web-animation-past-present-and-future
 
+#### Javascript Style Guide (1 long article)
+- https://github.com/airbnb/javascript/tree/master/es5
+
 
 ### Extra Credit
 

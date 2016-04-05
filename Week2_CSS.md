@@ -12,6 +12,9 @@
 
 ### Homework
 
+#### CSS Layout (6 videos)
+- https://www.khanacademy.org/computing/computer-programming/html-css/css-layout-properties/p/css-grouping-elements
+
 #### CSS (5 videos, 1 article)
 - https://css-tricks.com/video-screencasts/110-quick-overview-of-css-position-values/
 - https://css-tricks.com/video-screencasts/47-css-shorthand/
@@ -19,19 +22,17 @@
 - https://css-tricks.com/video-screencasts/5-columns-of-equal-height-super-simple-two-column-layout/
 - https://css-tricks.com/video-screencasts/42-all-about-floats-screencast/
 - http://webdesign.tutsplus.com/tutorials/how-to-make-responsive-scrollable-panels-with-flexbox--cms-23269
+- https://css-tricks.com/video-screencasts/140-exploring-css-layout-techniques-while-trying-to-get-a-subtitle-to-wrap/
 
 #### Codepen (1 video)
 - https://css-tricks.com/video-screencasts/112-using-codepen/
 
-#### Documentation (3 sites)
-- http://www.w3schools.com/css/default.asp
-- https://developer.mozilla.org/en-US/docs/Web/CSS
+#### Documentation (2 sites)
 - https://getbootstrap.com/css/
+- https://github.com/airbnb/css
 
-#### Snippets (pick 4)
+#### Snippets (pick 4 to learn)
 - https://css-tricks.com/snippets/
-
-
 
 
 
@@ -48,7 +49,6 @@ Goal: Publish a CSS design on Codepen
 
 #### More CSS (8 videos)
 - https://css-tricks.com/video-screencasts/142-hiding-things-with-css/
-- https://css-tricks.com/video-screencasts/140-exploring-css-layout-techniques-while-trying-to-get-a-subtitle-to-wrap/
 - https://css-tricks.com/video-screencasts/97-intro-to-css-animations/
 - https://css-tricks.com/video-screencasts/95-a-tale-of-border-gradients/
 - https://css-tricks.com/video-screencasts/94-intro-to-pseudo-elements/

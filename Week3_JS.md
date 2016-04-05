@@ -24,9 +24,6 @@
 
 
 
-
-
-
 ## Wednesday, April 27th | jQuery
 
 - jQuery Documentation

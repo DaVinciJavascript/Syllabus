@@ -41,10 +41,6 @@ Goal: Publish a live website & create a public open source repository of your we
 #### Structure of the Internet (6 videos)
 - https://www.khanacademy.org/computing/computer-science/internet-intro
 
-#### Chrome Dev Tools (2 videos)
-- https://vimeo.com/160593679
-- https://addyosmani.com/blog/devtools-incrementing-css-values/
-
 #### Git Learning Game (1 game)
 - Go to http://pcottle.github.io/learnGitBranching/, click on the checkmark, select the "Remote" tab at the top of the modal window. Play through the 15 levels shown here.
 
@@ -61,16 +57,12 @@ Goal: Publish a live website & create a public open source repository of your we
 
 ### Homework
 
-#### HTML (5 videos)
+#### HTML (just the first 5 videos)
 - https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/v/making-webpages-intro
 
-#### Photoshop (5 videos)
-- https://css-tricks.com/video-screencasts/124-a-modern-web-designers-workflow/
-- https://css-tricks.com/video-screencasts/16-creating-the-photoshop-mockup/
+#### Photoshop (2 long videos)
 - https://css-tricks.com/video-screencasts/71-building-a-website-photoshop-mockup/
 - https://css-tricks.com/video-screencasts/72-building-a-website-2-of-3-htmlcss-conversion/
-- https://css-tricks.com/video-screencasts/49-hodgepodge-of-photoshop-tricks/
-
 
 
 ## Friday, April 15th | HTML
@@ -85,11 +77,11 @@ Goal: Publish a live website & create a public open source repository of your we
 
 ### Homework
 
-#### CSS (9 videos)
+#### CSS (the remaining 9 videos)
 - https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/p/css-basics
 - https://www.khanacademy.org/computing/computer-programming/html-css/css-text-properties/v/css-zen-garden
 
-#### Semantics (1 video)
+#### Semantics (1 long video)
 - https://css-tricks.com/video-screencasts/100-lets-write-semantic-markup/
 
 #### Task (1 site)

@@ -1,7 +1,6 @@
 {
   "name": "DaVinciJS Starter",
   "description": "boilerplate for web animators",
-  "homepage": "git://github.com/bishopZ/kabuki-motion",
   "license": "MIT",
   "moduleType": "es6",
   "authors": [

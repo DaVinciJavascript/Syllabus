@@ -1,5 +1,5 @@
 {
-  "name": "DaVinciJS Starter",
+  "name": "davincijs-starter",
   "version": "0.0.1",
   "license": "MIT",
   "author": "bishopz <eduatx@gmail.com>",
@@ -31,7 +31,7 @@
 
   "dependencies": {
     "babel-core": "^5.5.4",
-    "babel-eslint": "^3.1.14",
+    "babel-eslint": "^4.1.7",
     "babel-loader": "^5.1.4",
     "body-parser": "~1.12.0",
     "cookie-parser": "~1.3.4",

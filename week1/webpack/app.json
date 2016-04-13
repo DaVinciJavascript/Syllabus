@@ -1,7 +1,6 @@
 {
   "name": "DaVinciJS Starter",
   "description": "boilerplate for web animators",
-  "repository": "https://github.com/bishopz/kabuki",
   "logo": "https://node-js-sample.herokuapp.com/node.svg",
   "keywords": [
   	"heroku",

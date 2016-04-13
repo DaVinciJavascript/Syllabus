@@ -6,7 +6,7 @@
 
 - Watch "The Better Parts" on Vimeo https://vimeo.com/97419177. You won't understand everything, but it will be good exposure. Douglas offers the best advice available for how to write Javascript. Take notes of any questions that you have along the way.
 
-- Create free accounts on Github.com and Codepen.io. Please make your username and password easy to type. You will need to type them many times.
+- Create free accounts on Github.com, Heroku.com and Codepen.io. Make your username and password easy to type- you will need to type them many times.
 
 
 ## Outline

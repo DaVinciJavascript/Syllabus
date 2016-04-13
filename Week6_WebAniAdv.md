@@ -8,7 +8,7 @@
 - Audio & Video
 - Animated GIF
 - SVG Animation
-- D3
+- D3.js
 
 
 ### Homework
@@ -26,6 +26,7 @@
 
 ## Wednesday, May 18th | Canvas with THREE.js
 
+- Plugins and WebGL
 - Canvas
 - THREE.js
 
@@ -38,7 +39,7 @@
 
 
 
-## Friday, May 20th | ...
+## Friday, May 20th | Hands On
 
 Goal: Publish a Canvas or SVG animation on Codepen.
 

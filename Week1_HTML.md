@@ -60,8 +60,7 @@ Goal: Publish a live website & create a public open source repository of your we
 #### HTML (just the first 5 videos)
 - https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/v/making-webpages-intro
 
-#### Photoshop (2 long videos)
-- https://css-tricks.com/video-screencasts/71-building-a-website-photoshop-mockup/
+#### Photoshop (1 long video)
 - https://css-tricks.com/video-screencasts/72-building-a-website-2-of-3-htmlcss-conversion/
 
 
@@ -77,7 +76,7 @@ Goal: Publish a live website & create a public open source repository of your we
 
 ### Homework
 
-#### CSS (the remaining 9 videos)
+#### CSS (20 activities)
 - https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/p/css-basics
 - https://www.khanacademy.org/computing/computer-programming/html-css/css-text-properties/v/css-zen-garden
 

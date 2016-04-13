@@ -15,7 +15,7 @@
 #### CSS Layout (6 videos)
 - https://www.khanacademy.org/computing/computer-programming/html-css/css-layout-properties/p/css-grouping-elements
 
-#### CSS (5 videos, 1 article)
+#### CSS (5 videos, 1 article, ~2 hours)
 - https://css-tricks.com/video-screencasts/110-quick-overview-of-css-position-values/
 - https://css-tricks.com/video-screencasts/47-css-shorthand/
 - https://css-tricks.com/video-screencasts/10-fixed-width-fluid-width-elastic-width/
@@ -47,7 +47,7 @@ Goal: Publish a CSS design on Codepen
 
 ### Homework
 
-#### More CSS (8 videos)
+#### More CSS (8 videos, ~3 hours)
 - https://css-tricks.com/video-screencasts/142-hiding-things-with-css/
 - https://css-tricks.com/video-screencasts/97-intro-to-css-animations/
 - https://css-tricks.com/video-screencasts/95-a-tale-of-border-gradients/
@@ -78,7 +78,7 @@ Goal: Design a Todo application with HTML and CSS.
 
 ### Homework
 
-#### Code Review (1 video)
+#### Code Review (1 article)
 - https://addyosmani.com/blog/lessons-from-a-javascript-code-review/
 
 #### Javascript (22 videos)

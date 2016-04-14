@@ -9,6 +9,21 @@
 - Create free accounts on Github.com, Heroku.com and Codepen.io. Make your username and password easy to type- you will need to type them many times.
 
 
+## Saturday, April 9th | Install Fest
+
+Goal: Create a modern development environment on your computer.
+
+- Install some software
+
+Download and install Sublime Text 3. When you install Sublime 3, it will open a folder with an icon called Sublime 2 and an Applications folder. Drag the icon into the Applications folder. Launch it and "Check for Updates".
+
+Then install Github Desktop. Launch it and "Check for Updates".
+
+Then install Node.js. Node installs as a command-line utility, there is no icon for it in your Applications folder.
+
+Then install Heroku Toolbelt. Heroku Toolbelt installs as a command-line utility, there is no icon for it in your Applications folder.
+
+
 ## Outline
 
 ### Week 1 : Modern HTML5 Development

@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- You must have a newish Apple laptop, OS X version 10.7 or later.
+- You must have a newish Apple laptop, OS X version 10.7 or later, and an external mouse.
 
 - Watch "The Better Parts" on Vimeo https://vimeo.com/97419177. You won't understand everything, but it will be good exposure. Douglas offers the best advice available for how to write Javascript. Take notes of any questions that you have along the way.
 

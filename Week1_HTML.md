@@ -22,7 +22,7 @@ Goal: Publish a live website & create a public open source repository of your we
 #### Structure of the Internet (6 videos)
 - https://www.khanacademy.org/computing/computer-science/internet-intro
 
-#### Git Learning Game (1 game)
+#### Git Patterns (1 game)
 - Go to http://pcottle.github.io/learnGitBranching/, click on the checkmark, select the "Remote" tab at the top of the modal window. Play through the 15 levels shown here.
 
 

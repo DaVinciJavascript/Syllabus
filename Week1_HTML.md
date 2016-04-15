@@ -46,6 +46,7 @@ Goal: Publish a live website & create a public open source repository of your we
 
 ## Friday, April 15th | HTML
 
+- [Being a Coder](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329#.ihbjgkrya)
 - Team Organization
 - Brief History of Web Design
 - Photoshop vs Sketch

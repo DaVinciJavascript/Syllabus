@@ -69,7 +69,7 @@ Goal: Publish a live website & create a public open source repository of your we
 - Learning HTML
 - Tour of HTML
 - Semantics & Accessibility
-- Bootstrap Grid Layout
+- [Bootstrap Grid Layout](https://getbootstrap.com/examples/grid/)
 - Text & Images
 - Tour of the Chrome Dev Tools
 - HTML on CodePen

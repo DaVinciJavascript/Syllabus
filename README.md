@@ -2,11 +2,26 @@
 
 ## Prerequisites
 
-- You must have a newish Apple laptop, OS X version 10.7 or later.
+- You must have a newish Apple laptop, OS X version 10.7 or later, and an external mouse.
 
 - Watch "The Better Parts" on Vimeo https://vimeo.com/97419177. You won't understand everything, but it will be good exposure. Douglas offers the best advice available for how to write Javascript. Take notes of any questions that you have along the way.
 
 - Create free accounts on Github.com, Heroku.com and Codepen.io. Make your username and password easy to type- you will need to type them many times.
+
+
+## Saturday, April 9th | Install Fest
+
+Goal: Create a modern development environment on your computer.
+
+- Install some software
+
+Download and install Sublime Text 3. When you install Sublime 3, it will open a folder with an icon called Sublime 2 and an Applications folder. Drag the icon into the Applications folder. Launch it and "Check for Updates".
+
+Then install Github Desktop. Launch it and "Check for Updates".
+
+Then install Node.js. Node installs as a command-line utility, there is no icon for it in your Applications folder.
+
+Then install Heroku Toolbelt. Heroku Toolbelt installs as a command-line utility, there is no icon for it in your Applications folder.
 
 
 ## Outline

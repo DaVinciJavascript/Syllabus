@@ -3,14 +3,33 @@
 
 ## Monday, April 18th
 
-- Learning CSS
-- Tour of CSS
+- Tour of CSS3
 - CSS for Layout
 - Bootstrap CSS
 - Publishing to CodePen
 
+### Examples
+
+- http://codepen.io/chrismcolvin/pen/rxExvm
+- http://codepen.io/ademilter/pen/Dwelk
+- http://codepen.io/micjamking/pen/obdGw
+- http://codepen.io/diasbruno/pen/czsAt
+- http://codepen.io/boast/pen/pLjld
+- http://codepen.io/LukyVj/pen/kAvxp
+- http://codepen.io/design8383/pen/EFAzo
+- http://codepen.io/fornyhucker/pen/wklrG
+- http://codepen.io/Rajanand/pen/dKsAb
+- http://codepen.io/somethingkindawierd/pen/tkrqi
+- http://codepen.io/hans/pen/hanBu
+- http://codepen.io/flik185/pen/jWjyGQ
+
 
 ### Homework
+
+#### Documentation (2 sites)
+- https://getbootstrap.com/css/
+- https://github.com/airbnb/css
+- https://css-tricks.com/snippets/
 
 #### CSS Layout (6 videos)
 - https://www.khanacademy.org/computing/computer-programming/html-css/css-layout-properties/p/css-grouping-elements
@@ -24,16 +43,8 @@
 - http://webdesign.tutsplus.com/tutorials/how-to-make-responsive-scrollable-panels-with-flexbox--cms-23269
 - https://css-tricks.com/video-screencasts/140-exploring-css-layout-techniques-while-trying-to-get-a-subtitle-to-wrap/
 
-#### Codepen (1 video)
-- https://css-tricks.com/video-screencasts/112-using-codepen/
-
-#### Documentation (2 sites)
-- https://getbootstrap.com/css/
-- https://github.com/airbnb/css
-
-#### Snippets (pick 4 to learn)
-- https://css-tricks.com/snippets/
-
+#### Extra Credit
+- Snippets (pick 4 to learn) 
 
 
 ## Wednesday, April 20th | CSS Advanced
@@ -68,6 +79,10 @@ Goal: Publish a CSS design on Codepen
 - http://motionographer.com/2016/03/31/one-year-of-9-squares/
 - https://vimeo.com/140499151
 
+#### Extra Credit
+- http://www.cssdesignawards.com/
+- http://motionographer.com/2016/03/31/one-year-of-9-squares/
+- https://vimeo.com/140499151
 
 
 

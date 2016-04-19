@@ -80,6 +80,8 @@ Then install Heroku Toolbelt. Heroku Toolbelt installs as a command-line utility
 >>>>>>> 42466dc33cc9f8c0da9090864926254f6194cbe7
 # Participants
 
+- Kapil [Github](https://github.com/amabuba) [Codepen](https://codepen.io/amabuba) [Favorite](http://hi-res.net/legacy/dolce-gabbana-f-w-13)
+
 
 <<<<<<< HEAD
 Join us at Davinci Institute

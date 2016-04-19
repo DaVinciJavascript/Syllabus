@@ -66,6 +66,7 @@ Then install Heroku Toolbelt. Heroku Toolbelt installs as a command-line utility
 - Group presentations.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Participants
 
  - Morgan [Github](http://github.com/morganreannebarnes) [Codepen](http://codepen.io/morganreanne/) [Favorite](http://astralquest.com/about-us/)
@@ -73,9 +74,33 @@ Then install Heroku Toolbelt. Heroku Toolbelt installs as a command-line utility
  Join us at Davinci Institute.
 =======
 
+=======
+>>>>>>> f3c6d980abeca15d6f7cdaeba2ac883c671da305
 # Participants
 
-- Jay Github: [Github](http://github.com/jsg7440) [Codepen](http://codepen.io/) [Favorite](http://www.underlviv.com.ua/index-en.html)
+- Kapil [Github](https://github.com/amabuba) [Codepen](https://codepen.io/amabuba) [Favorite](http://hi-res.net/legacy/dolce-gabbana-f-w-13)
+
+
+- Lisa  [Github] (https://github.com/marisaile) [Codepen] (http://codepen.io/marisaile) [Favorite] (http://genelab.nasa.gov)
+
+
+- Sharon [Github] (http://github.com/372x) [Codepen] (http://codepen.io/372x) [Favorite] (http://www.rockyrama.com)
+
+
+- Rick Perez [Github](https://github.com/Perezmothership) [Codepen](http://codepen.io/perezmothership/) [Favorite](http://www.fidotvchannel.com/)
+
+
+- Tory [Github](http://github.com/tsrahm) [Codepen](http://codepen.io/tsrahm/) [Favorite](http://hi-res.net/)
+
+- Bishop [Github](http://github.com/bishopz) [Codepen](http://codepen.io/bishopZ/) [Favorite](http://hi-res.net/)
+
+- Jay [Github](http://github.com/jsg7440) [Codepen](http://codepen.io/jsg7440) [Favorite](http://www.underlviv.com.ua/index-en.html)
+- Alex Balloffet: [Github](http://github.com/AlexB913) [Codepen](http://codepen.io/AlexB41/) [Favorite](http://collapse-thedivisiongame.ubi.com/en/)
 
 Join us at Davinci Institute
+
+<<<<<<< HEAD
+Join us at Davinci Institute
 >>>>>>> 77becef2b2db3ad0f6c9d16bc2334e6e88ce61ff
+=======
+>>>>>>> f3c6d980abeca15d6f7cdaeba2ac883c671da305

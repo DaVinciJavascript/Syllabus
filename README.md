@@ -75,6 +75,7 @@ Then install Heroku Toolbelt. Heroku Toolbelt installs as a command-line utility
 - Bishop [Github](http://github.com/bishopz) [Codepen](http://codepen.io/bishopZ/) [Favorite](http://hi-res.net/)
 
 - Jay [Github](http://github.com/jsg7440) [Codepen](http://codepen.io/jsg7440) [Favorite](http://www.underlviv.com.ua/index-en.html)
+- Alex Balloffet: [Github](http://github.com/AlexB913) [Codepen](http://codepen.io/AlexB41/) [Favorite](http://collapse-thedivisiongame.ubi.com/en/)
 
 Join us at Davinci Institute
 

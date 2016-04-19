@@ -69,4 +69,7 @@ Then install Heroku Toolbelt. Heroku Toolbelt installs as a command-line utility
 
 - Lisa  [Github] (https://github.com/marisaile) [Codepen] (http://codepen.io/marisaile) [Favorite] (http://genelab.nasa.gov)
 
-Join us at Da Vinci Institute.
+- Jay Github: [Github](http://github.com/jsg7440) [Codepen](http://codepen.io/) [Favorite](http://www.underlviv.com.ua/index-en.html)
+
+Join us at Davinci Institute
+

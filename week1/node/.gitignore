@@ -1,0 +1,36 @@
+# dont check the rendered source maps in to the public repo
+# because they are development files that we dont want sent
+# to heroku
+
+public/application.js.map
+public/main.css.map
+
+
+# Mr Developer
+.DS_Store
+
+# Emacs cruft
+*~
+
+# node modules
+node_modules/
+
+# npm debug log
+npm-debug.log
+
+# docker files
+.env
+Dockerfile
+docker-compose.yml
+
+# large data files
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+# dreamweaver
+_notes/

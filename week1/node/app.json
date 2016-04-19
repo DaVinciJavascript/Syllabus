@@ -1,0 +1,21 @@
+{
+  "name": "DaVinciJS Starter",
+  "description": "boilerplate for web animators",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": [
+  	"heroku",
+    "node",
+    "express",
+    "react",
+    "sass",
+    "eslint",
+    "webpack",
+    "react-motion",
+    "flux",
+    "redux",
+    "kabuki",
+    "animation",
+    "web-animation",
+    "davinci"
+  ]
+}

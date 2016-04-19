@@ -65,6 +65,7 @@ Then install Heroku Toolbelt. Heroku Toolbelt installs as a command-line utility
 ### Week 12 : Final Projects
 - Group presentations.
 
+<<<<<<< HEAD
 # Participants
 
 
@@ -77,7 +78,32 @@ Join us at Davinci Institute.
 Join us at Davinci Institute
 
 =======
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+# Participants
+
+ - Morgan [Github](http://github.com/morganreannebarnes) [Codepen](http://codepen.io/morganreanne/) [Favorite](http://astralquest.com/about-us/)
+
+ Join us at Davinci Institute.
+=======
+
+=======
+>>>>>>> f3c6d980abeca15d6f7cdaeba2ac883c671da305
+# Participants
+
+- Kapil [Github](https://github.com/amabuba) [Codepen](https://codepen.io/amabuba) [Favorite](http://hi-res.net/legacy/dolce-gabbana-f-w-13)
+
+
+- Lisa  [Github] (https://github.com/marisaile) [Codepen] (http://codepen.io/marisaile) [Favorite] (http://genelab.nasa.gov)
+
+
+- Sharon [Github] (http://github.com/372x) [Codepen] (http://codepen.io/372x) [Favorite] (http://www.rockyrama.com)
+
+
+>>>>>>> b5c92ea861080ba285b4bfe8a6e234a0c29aef08
 - Rick Perez [Github](https://github.com/Perezmothership) [Codepen](http://codepen.io/perezmothership/) [Favorite](http://www.fidotvchannel.com/)
+
 
 - Tory [Github](http://github.com/tsrahm) [Codepen](http://codepen.io/tsrahm/) [Favorite](http://hi-res.net/)
 
@@ -88,4 +114,12 @@ Join us at Davinci Institute
 
 Join us at Davinci Institute
 
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+Join us at Davinci Institute
+>>>>>>> 77becef2b2db3ad0f6c9d16bc2334e6e88ce61ff
+=======
+>>>>>>> f3c6d980abeca15d6f7cdaeba2ac883c671da305
+>>>>>>> b5c92ea861080ba285b4bfe8a6e234a0c29aef08

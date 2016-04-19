@@ -66,6 +66,7 @@ Then install Heroku Toolbelt. Heroku Toolbelt installs as a command-line utility
 - Group presentations.
 
 
+<<<<<<< HEAD
 # Participants 
 
  - dailydayna [GitHub](https:github.com/dailydayna)[Codepen](http://codepen.io/dailydayna)[Favorite](http://hi-res.net/legacy/the-fountain)
@@ -73,3 +74,10 @@ Then install Heroku Toolbelt. Heroku Toolbelt installs as a command-line utility
  Join us at Davinci Institute 
 
 
+=======
+# Participants
+
+- Jay Github: [Github](http://github.com/jsg7440) [Codepen](http://codepen.io/jsg7440) [Favorite](http://www.underlviv.com.ua/index-en.html)
+
+Join us at Davinci Institute
+>>>>>>> 1780ef6f97b253d5ebb7eda424349d8142101eba

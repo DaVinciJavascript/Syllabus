@@ -73,9 +73,9 @@ Then install Heroku Toolbelt. Heroku Toolbelt installs as a command-line utility
 
 - Kapil [Github](https://github.com/amabuba) [Codepen](https://codepen.io/amabuba) [Favorite](http://hi-res.net/legacy/dolce-gabbana-f-w-13)
 
-- Lisa  [Github] (https://github.com/marisaile) [Codepen] (http://codepen.io/marisaile) [Favorite] (http://genelab.nasa.gov)
+- Lisa  [Github](https://github.com/marisaile) [Codepen](http://codepen.io/marisaile) [Favorite](http://genelab.nasa.gov)
 
-- Sharon [Github] (http://github.com/372x) [Codepen] (http://codepen.io/372x) [Favorite] (http://www.rockyrama.com)
+- Sharon [Github](http://github.com/372x) [Codepen](http://codepen.io/372x) [Favorite](http://www.rockyrama.com)
 
 - Rick Perez [Github](https://github.com/Perezmothership) [Codepen](http://codepen.io/perezmothership/) [Favorite](http://www.fidotvchannel.com/)
 

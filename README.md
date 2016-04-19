@@ -64,3 +64,10 @@ Then install Heroku Toolbelt. Heroku Toolbelt installs as a command-line utility
 
 ### Week 12 : Final Projects
 - Group presentations.
+
+
+#Participants
+
+- Steve [Github](http://github.com/sjhudek) [Codepen](http://codepen.io/sjhudek/) [Favorite](http://collapse-thedivisiongame.ubi.com/)
+
+Join us at DaVinci Institute

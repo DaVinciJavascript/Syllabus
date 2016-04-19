@@ -64,3 +64,10 @@ Then install Heroku Toolbelt. Heroku Toolbelt installs as a command-line utility
 
 ### Week 12 : Final Projects
 - Group presentations.
+
+
+# Participants
+
+- Bishop [Github](http://github.com/bishopz) [Codepen](http://codepen.io/bishopZ/) [Favorite](http://hi-res.net/)
+
+

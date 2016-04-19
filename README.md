@@ -66,7 +66,7 @@ Then install Heroku Toolbelt. Heroku Toolbelt installs as a command-line utility
 - Group presentations.
 
 
-#Participants
+# Participants
 
 - Steve [Github](http://github.com/sjhudek) [Codepen](http://codepen.io/sjhudek/) [Favorite](http://collapse-thedivisiongame.ubi.com/)
 

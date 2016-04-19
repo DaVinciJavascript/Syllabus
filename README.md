@@ -64,3 +64,12 @@ Then install Heroku Toolbelt. Heroku Toolbelt installs as a command-line utility
 
 ### Week 12 : Final Projects
 - Group presentations.
+
+
+# Participants 
+
+ - dailydayna [GitHub](https:github.com/dailydayna)[Codepen](http://codepen.io/dailydayna)[Favorite](http://hi-res.net/legacy/the-fountain)
+
+ Join us at Davinci Institute 
+
+

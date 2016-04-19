@@ -65,38 +65,16 @@ Then install Heroku Toolbelt. Heroku Toolbelt installs as a command-line utility
 ### Week 12 : Final Projects
 - Group presentations.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-<<<<<<< HEAD
 # Participants 
 
- - dailydayna [GitHub](https:github.com/dailydayna)[Codepen](http://codepen.io/dailydayna)[Favorite](http://hi-res.net/legacy/the-fountain)
-
- Join us at Davinci Institute 
-
-
-=======
-=======
->>>>>>> 42466dc33cc9f8c0da9090864926254f6194cbe7
-=======
-
->>>>>>> b3fc6622079e85024e26f0702b16fdf70d87ef7e
-# Participants
+- Dayna [GitHub](https:github.com/dailydayna)[Codepen](http://codepen.io/dailydayna)[Favorite](http://hi-res.net/legacy/the-fountain)
 
 - Nicole [Github](https://github.com/NicoleHall) [Codepen](https://codepen.io/NicoleHall/) [Favorite](http://steuermann.haus/)
 
 - Steve [Github](http://github.com/sjhudek) [Codepen](http://codepen.io/sjhudek/) [Favorite](http://collapse-thedivisiongame.ubi.com/)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-Join us at Davinci Institute
->>>>>>> 1780ef6f97b253d5ebb7eda424349d8142101eba
-=======
-- Lisa  [Github] (https://github.com/marisaile) [Codepen] (http://codepen.io/marisaile) [Favorite] (http://genelab.nasa.gov)
-=======
 - Elena [Github](https://github.com/nolanelena) [Codepen](http://codepen.io/enolan/)[Favorite](https://www.designhotels.com/original-experiences/barcelona/from-here-to-infinity) 
->>>>>>> b3fc6622079e85024e26f0702b16fdf70d87ef7e
 
 - Morgan [Github](http://github.com/morganreannebarnes) [Codepen](http://codepen.io/morganreanne/) [Favorite](http://astralquest.com/about-us/)
 
@@ -116,8 +94,4 @@ Join us at Davinci Institute
 
 - Alex Ballofet: [Github](http://github.com/AlexB913) [Codepen](http://codepen.io/AlexB41/) [Favorite](http://collapse-thedivisiongame.ubi.com/en/)
 
-<<<<<<< HEAD
->>>>>>> 42466dc33cc9f8c0da9090864926254f6194cbe7
-=======
 Join us at Davinci Institute
->>>>>>> b3fc6622079e85024e26f0702b16fdf70d87ef7e

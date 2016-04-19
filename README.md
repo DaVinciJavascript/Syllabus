@@ -65,9 +65,10 @@ Then install Heroku Toolbelt. Heroku Toolbelt installs as a command-line utility
 ### Week 12 : Final Projects
 - Group presentations.
 
-
+<<<<<<< HEAD
 # Participants
 
+<<<<<<< HEAD
 - Elena [Github](https://github.com/nolanelena) [Codepen](http://codepen.io/enolan/)[Favorite](https://www.designhotels.com/original-experiences/barcelona/from-here-to-infinity) 
 
 Join us at Davinci Institute. 
@@ -76,3 +77,16 @@ Join us at Davinci Institute.
 
 Join us at Davinci Institute
 
+=======
+- Rick Perez [Github](https://github.com/Perezmothership) [Codepen](http://codepen.io/perezmothership/) [Favorite](http://www.fidotvchannel.com/)
+
+- Tory [Github](http://github.com/tsrahm) [Codepen](http://codepen.io/tsrahm/) [Favorite](http://hi-res.net/)
+
+- Bishop [Github](http://github.com/bishopz) [Codepen](http://codepen.io/bishopZ/) [Favorite](http://hi-res.net/)
+
+- Jay [Github](http://github.com/jsg7440) [Codepen](http://codepen.io/jsg7440) [Favorite](http://www.underlviv.com.ua/index-en.html)
+- Alex Balloffet: [Github](http://github.com/AlexB913) [Codepen](http://codepen.io/AlexB41/) [Favorite](http://collapse-thedivisiongame.ubi.com/en/)
+
+Join us at Davinci Institute
+
+>>>>>>> 120c8e15634edd73a2f4591ee335464ccd98a9c4

@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Gotham A", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  margin: 0;
+  overflow-x: hidden;
+  background-color: #dfdfe4;
+}
+
+main {
+  overflow: hidden;
+}
+
+h4 {
+  position: absolute;
+  left: 7%;
+  top: 0;
+  font-weight: normal;
+  font-size: 34px;
+}
+
+img {
+  width: 100%;
+}
+
+.blur {
+  -webkit-filter: blur(3px);
+  filter: blur(3px);
+}
+
+.gridItem {
+  position: absolute;
+}
+
+/*# sourceMappingURL=main.css.map*/

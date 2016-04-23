@@ -66,11 +66,32 @@ Then install Heroku Toolbelt. Heroku Toolbelt installs as a command-line utility
 - Group presentations.
 
 
-# Participants
+# Participants 
 
-<<<<<<< HEAD
+- Dayna [GitHub](https:github.com/dailydayna)[Codepen](http://codepen.io/dailydayna)[Favorite](http://hi-res.net/legacy/the-fountain)
+
+- Nicole [Github](https://github.com/NicoleHall) [Codepen](https://codepen.io/NicoleHall/) [Favorite](http://steuermann.haus/)
+
+- Steve [Github](http://github.com/sjhudek) [Codepen](http://codepen.io/sjhudek/) [Favorite](http://collapse-thedivisiongame.ubi.com/)
+
+- Elena [Github](https://github.com/nolanelena) [Codepen](http://codepen.io/enolan/)[Favorite](https://www.designhotels.com/original-experiences/barcelona/from-here-to-infinity) 
+
+- Morgan [Github](http://github.com/morganreannebarnes) [Codepen](http://codepen.io/morganreanne/) [Favorite](http://astralquest.com/about-us/)
+
+- Kapil [Github](https://github.com/amabuba) [Codepen](https://codepen.io/amabuba) [Favorite](http://hi-res.net/legacy/dolce-gabbana-f-w-13)
+
+- Lisa  [Github](https://github.com/marisaile) [Codepen](http://codepen.io/marisaile) [Favorite](http://genelab.nasa.gov)
+
+- Sharon [Github](http://github.com/372x) [Codepen](http://codepen.io/372x) [Favorite](http://www.rockyrama.com)
+
+- Rick Perez [Github](https://github.com/Perezmothership) [Codepen](http://codepen.io/perezmothership/) [Favorite](http://www.fidotvchannel.com/)
+
+- Tory [Github](http://github.com/tsrahm) [Codepen](http://codepen.io/tsrahm/) [Favorite](http://hi-res.net/)
+
 - Bishop [Github](http://github.com/bishopz) [Codepen](http://codepen.io/bishopZ/) [Favorite](http://hi-res.net/)
 
-- Jay Github: [Github](http://github.com/jsg7440) [Codepen](http://codepen.io/jsg7440) [Favorite](http://www.underlviv.com.ua/index-en.html)
+- Jay [Github](http://github.com/jsg7440) [Codepen](http://codepen.io/jsg7440) [Favorite](http://www.underlviv.com.ua/index-en.html)
+
+- Alex Ballofet: [Github](http://github.com/AlexB913) [Codepen](http://codepen.io/AlexB41/) [Favorite](http://collapse-thedivisiongame.ubi.com/en/)
 
 Join us at Davinci Institute

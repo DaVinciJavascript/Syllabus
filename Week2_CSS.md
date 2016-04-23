@@ -90,6 +90,7 @@ Goal: Publish a CSS design on Codepen
 
 Goal: Design a Todo application with HTML and CSS.
 
+[bootstrap cheatsheet](http://hackerthemes.com/bootstrap-cheatsheet#list-group)
 
 ### Homework
 

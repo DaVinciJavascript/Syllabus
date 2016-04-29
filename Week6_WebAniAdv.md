@@ -49,7 +49,9 @@ Goal: Publish a Canvas or SVG animation on Codepen.
 #### Task (1 site)
 - Pick out your favorite from eLiterature winners, http://www.huffingtonpost.com/illya-szilak/electronic-literature-a-m_b_9398850.html
 
-
+#### Command-Line (2 videos)
+- https://developers.google.com/web/shows/ttt/series-1/cmd-line-shortcuts?hl=en
+- https://developers.google.com/web/shows/ttt/series-1/cmd-line?hl=en
 
 
 

@@ -42,15 +42,14 @@
 - http://www.w3schools.com/bootstrap/default.asp
 
 
-
-
 ## Friday, April 29th | Bootstrap
 
 Goal: Design a working Todo application with Bootstrap and jQuery.
 
-- Bootstrap Components
 - Bootstrap Javascript
-
+- Modules vs Classes
+- MVC Design Pattern
+- TODO MVC
 
 ### Homework
 
@@ -58,15 +57,6 @@ Goal: Design a working Todo application with Bootstrap and jQuery.
 - https://addyosmani.com/blog/chrome-devtools-deepdive/
 - https://addyosmani.com/blog/essential-js-namespacing/
 - https://vimeo.com/133137606
-
-#### Command-Line (2 videos)
-- https://developers.google.com/web/shows/ttt/series-1/cmd-line-shortcuts?hl=en
-- https://developers.google.com/web/shows/ttt/series-1/cmd-line?hl=en
-
-
-
-
-
 
 
 

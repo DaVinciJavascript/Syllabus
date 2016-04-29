@@ -58,5 +58,7 @@ Goal: Design a working Todo application with Bootstrap and jQuery.
 - https://addyosmani.com/blog/essential-js-namespacing/
 - https://vimeo.com/133137606
 
+### Task (1 task)
+- Add a Custom Font to your Todo App
 
 

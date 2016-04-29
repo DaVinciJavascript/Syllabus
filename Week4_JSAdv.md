@@ -2,11 +2,11 @@
 
 ## Monday, May 2nd | Crushing Bugs
 
+- Defensive Programming
+- Handling Errors
+- Public & Private Properties
 - Troubleshooting
-- Chrome Dev Tools Deep Dive
-- Namespacing
-- Unit Testing
-- Anti-patterns
+- ES6 Features
 
 ### Homework
 
@@ -23,11 +23,12 @@
 
 ## Wednesday, May 4th | Functional Javascript
 
-- Functions that return Functions
-- Haskell
+- Types Revisited
+- Iterators
+- Filter & Reject
 - Map & Reduce
-- Underscore
-- Calculus
+- Deferred Promises
+- Immutability
 
 ### Homework
 
@@ -43,8 +44,8 @@
 
 Goal: Create a working Todo application that uses Local Storage.
 
+- Unit Testing
 - Cookies
-- Offline Apps
 - Local Storage
 
 ### Homework

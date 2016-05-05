@@ -42,10 +42,10 @@ Then install Heroku Toolbelt. Heroku Toolbelt installs as a command-line utility
 - Create a Todo application that uses Local Storage.
 
 ### Week 5 : Web Animation
-- Publish a web animation on Codepen.
+- Publish a web animation.
 
 ### Week 6 : Web Animation Advanced
-- Publish a Canvas or SVG animation on Codepen.
+- Publish a Canvas or SVG animation.
 
 ### Week 7 : Javascript Architecture with Backbone
 - Create a Todo application with Backbone.

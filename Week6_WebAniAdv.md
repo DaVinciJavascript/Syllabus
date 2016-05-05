@@ -5,11 +5,12 @@
 
 ## Monday, May 16th | SVG with D3.js
 
+- CSS Gradient Maker
+- CSS Sprites
 - Audio & Video
 - Animated GIF
 - SVG Animation
 - D3.js
-
 
 ### Homework
 
@@ -19,8 +20,6 @@
 #### Canvas (2 videos)
 - https://css-tricks.com/video-screencasts/144-javascript-canvas-game/
 - http://code.tutsplus.com/tutorials/an-introduction-to-working-with-canvas--cms-22862
-
-
 
 
 
@@ -38,11 +37,12 @@
 
 
 
-
 ## Friday, May 20th | Hands On
 
-Goal: Publish a Canvas or SVG animation on Codepen.
+Goal: Publish a Canvas or SVG animation.
 
+- Scroll handlers & Parallax
+- Greensock
 
 ### Homework
 

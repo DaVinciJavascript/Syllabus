@@ -1,12 +1,8 @@
 # Week 4 | Javascript Advanced
 
-## Monday, May 2nd | Crushing Bugs
+## Monday, May 2nd | Hands On
 
-- Defensive Programming
-- Handling Errors
-- Public & Private Properties
-- Troubleshooting
-- ES6 Features
+Goal: Finish up Todo App
 
 ### Homework
 
@@ -25,10 +21,10 @@
 
 - Types Revisited
 - Iterators
-- Filter & Reject
 - Map & Reduce
-- Deferred Promises
-- Immutability
+- Promises
+
+Hands-on: Use Underscore in our Todo App
 
 ### Homework
 
@@ -42,17 +38,17 @@
 
 ## Friday, May 6th | Local Storage
 
-Goal: Create a working Todo application that uses Local Storage.
+Goal: Create a working Todo application that uses Local Storage on Heroku
 
-- Unit Testing
-- Cookies
+- Cookies & Offline Apps
 - Local Storage
+- Heroku
+
 
 ### Homework
 
-#### Web Animation (2 articles)
+#### Web Animation (1 article)
 - http://webdesign.tutsplus.com/tutorials/adding-appeal-to-your-animations-on-the-web--cms-23649
-- http://alistapart.com/article/web-animation-past-present-and-future
 
 #### Javascript Style Guide (1 long article)
 - https://github.com/airbnb/javascript/tree/master/es5

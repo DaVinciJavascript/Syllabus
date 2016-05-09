@@ -4,9 +4,12 @@
 
 ## Monday, May 9th | Hands On
 
-- Migrating from Codepen to Github
+- Hands On: Move Todo to Separate Page
 - Troubleshooting
+- Import Bootstrap
+- Hands On: Setup a JS router
 - Hands On: Edit a Todo
+- Hands On: Details Modal with Creation Date
 
 ### Homework
 
@@ -19,10 +22,9 @@
 ## Wednesday, May 11th | CSS Animation
 
 - Hands On: Todo Media Queries
-- Hands On: Creating a Home page
-- Links, Text, Images, Colors
-- CSS Transforms
-
+- Hands On:  Animate a Modal Window
+- CSS Transitions, Transforms
+- Hands On: Todo Intro Animation
 
 ### Homework
 

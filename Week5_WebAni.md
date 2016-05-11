@@ -21,26 +21,34 @@
 
 ## Wednesday, May 11th | CSS Animation
 
+- Find Colors
 - Hands On: Todo Media Queries
-- CSS Transitions, Transforms
+- CSS Transforms & Transitions
 - Hands On: CSS Animation
 
 ### Homework
 
+#### Color Resources (create bookmarks)
+- https://color.adobe.com/
+- http://cloford.com/resources/colours/500col.htm
+- http://www.lescouleurs.ch/1/architectural-colour-design/keyboard-of-colour-1959/
+
+
 #### jQuery Animation (1 video)
-https://css-tricks.com/video-screencasts/79-complete-jquery-animations/
+- https://css-tricks.com/video-screencasts/79-complete-jquery-animations/
 
 #### Easing (1 video)
-https://developers.google.com/web/fundamentals/design-and-ui/animations/the-basics-of-easing?hl=en
+- https://developers.google.com/web/fundamentals/design-and-ui/animations/the-basics-of-easing?hl=en
 
 #### Event Loop (1 video)
-https://www.youtube.com/watch?v=8aGhZQkoFbQ
+- https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
 
 
 
 ## Friday, May 13th | Animating with Code
 
+- Finding Images
 - Animating with Code
 - RequestAnimationFrame
 - Calculating Sizes
@@ -49,6 +57,9 @@ https://www.youtube.com/watch?v=8aGhZQkoFbQ
 - Easing
 
 ### Homework
+
+#### Web Animation (1 article)
+- https://medium.com/@adaptivepath/jedi-principles-of-ui-animation-2b88423b1dac#.jq1nzx2qu
 
 #### SVG (3 videos)
 - https://css-tricks.com/video-screencasts/137-svg-is-for-everybody/

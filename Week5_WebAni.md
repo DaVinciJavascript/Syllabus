@@ -2,6 +2,7 @@
 # Week 5 | Web Animation
 
 
+
 ## Monday, May 9th | Hands On
 
 - Hands On: Move Todo to Separate Page
@@ -9,7 +10,6 @@
 - Import Bootstrap
 - Hands On: Setup a JS router
 - Hands On: Edit a Todo
-- Hands On: Details Modal with Creation Date
 
 ### Homework
 
@@ -22,9 +22,8 @@
 ## Wednesday, May 11th | CSS Animation
 
 - Hands On: Todo Media Queries
-- Hands On:  Animate a Modal Window
 - CSS Transitions, Transforms
-- Hands On: Todo Intro Animation
+- Hands On: CSS Animation
 
 ### Homework
 
@@ -36,6 +35,8 @@ https://developers.google.com/web/fundamentals/design-and-ui/animations/the-basi
 
 #### Event Loop (1 video)
 https://www.youtube.com/watch?v=8aGhZQkoFbQ
+
+
 
 
 ## Friday, May 13th | Animating with Code

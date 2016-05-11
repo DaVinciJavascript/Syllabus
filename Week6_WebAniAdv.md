@@ -36,7 +36,6 @@
 
 
 
-
 ## Friday, May 20th | Hands On
 
 Goal: Publish a Canvas or SVG animation.
@@ -46,8 +45,10 @@ Goal: Publish a Canvas or SVG animation.
 
 ### Homework
 
-#### Task (1 site)
-- Pick out your favorite from eLiterature winners, http://www.huffingtonpost.com/illya-szilak/electronic-literature-a-m_b_9398850.html
+
+#### Task (1 task)
+
+- Improve your project site
 
 #### Command-Line (2 videos)
 - https://developers.google.com/web/shows/ttt/series-1/cmd-line-shortcuts?hl=en

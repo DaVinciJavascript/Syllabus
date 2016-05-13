@@ -44,25 +44,25 @@ Then install Heroku Toolbelt. Heroku Toolbelt installs as a command-line utility
 ### Week 5 : Web Animation
 - Publish a web animation.
 
-### Week 6 : Web Animation Advanced
+### Week 6 : Project Week
+- Get a start on your project.
+
+### Week 7 : Web Animation Advanced
 - Publish a Canvas or SVG animation.
 
-### Week 7 : Javascript Architecture with Backbone
+### Week 8 : Javascript Architecture with Backbone
 - Create a Todo application with Backbone.
 
-### Week 8 : Javascript Architecture with React
+### Week 9 : Javascript Architecture with React
 - Create a Todo application with React.
 
-### Week 9 : Javascript Servers
+### Week 10 : Javascript Servers
 - Create a Todo API.
 
-### Week 10 : Web Security
+### Week 11 : Web Security
 - Break something.
 
-### Week 11 : Mobile & Tablets
-- Create an Android app.
-
-### Week 12 : Final Projects
+### Week 12 : Project Week
 - Group presentations.
 
 

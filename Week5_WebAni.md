@@ -21,7 +21,7 @@
 
 ## Wednesday, May 11th | CSS Animation
 
-- Find Colors
+- Finding Colors
 - Hands On: Todo Media Queries
 - CSS Transforms & Transitions
 - Hands On: CSS Animation

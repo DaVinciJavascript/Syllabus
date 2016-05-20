@@ -48,13 +48,11 @@
 
 ## Friday, May 13th | Animating with Code
 
-- Finding Images
+- Javascript Review
 - Animating with Code
-- RequestAnimationFrame
-- Calculating Sizes
-- Reflows
-- jQuery animate
+- Animating with jQuery
 - Easing
+- Hands on: make a stopwatch
 
 ### Homework
 

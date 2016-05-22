@@ -5,21 +5,30 @@
 
 ## Monday, May 16th | SVG with D3.js
 
-- CSS Gradient Maker
+- Raster vs Vector
+- CSS Tools
 - CSS Sprites
-- Audio & Video
-- Animated GIF
-- SVG Animation
-- D3.js
+- Audio, Video & Animated GIF
+- SVG Animation with D3.js
+
+### CSS Tools (make bookmarks)
+
+- http://lea.verou.me/css3patterns/
+- http://bennettfeely.com/gradients/ 
+- http://bennettfeely.com/clippy/
+- http://www.colorzilla.com/gradient-editor/
+- http://www.flaticon.com/
 
 ### Homework
 
-#### Documentation (1 site)
+#### SVG (1 site)
 - http://www.w3schools.com/svg/default.asp
 
-#### Canvas (2 videos)
-- https://css-tricks.com/video-screencasts/144-javascript-canvas-game/
+#### Canvas (1 tutorial)
 - http://code.tutsplus.com/tutorials/an-introduction-to-working-with-canvas--cms-22862
+
+#### Building a Game (1 video)
+- https://css-tricks.com/video-screencasts/144-javascript-canvas-game/
 
 
 

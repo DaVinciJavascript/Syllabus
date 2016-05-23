@@ -1,6 +1,6 @@
 
 
-# Week 6 | Web Animation Advanced
+# Week 7 | Web Animation Advanced
 
 
 ## Monday, May 16th | SVG with D3.js

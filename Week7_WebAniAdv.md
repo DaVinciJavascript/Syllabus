@@ -34,23 +34,25 @@
 
 ## Wednesday, May 18th | Canvas with THREE.js
 
-- Plugins and WebGL
-- Canvas
-- THREE.js
+- History: Plugins and WebGL
+- Canvas Introduction
+- Codepen Settings
+- THREE.js Examples
 
 ### Homework
 
-#### Documentation (1 site)
-- http://www.w3schools.com/canvas/default.asp
+#### Canvas (tutorial)
+- https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial
 
 
+#### THREE.js
 
 ## Friday, May 20th | Hands On
 
 Goal: Publish a Canvas or SVG animation.
 
+- Improving Architecture
 - Scroll handlers & Parallax
-- Greensock
 
 ### Homework
 

@@ -46,8 +46,6 @@
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial
 
 
-#### THREE.js
-
 ## Friday, May 20th | Hands On
 
 Goal: Publish a Canvas or SVG animation.

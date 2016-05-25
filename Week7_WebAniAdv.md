@@ -41,7 +41,8 @@
 
 ### Homework
 
-#### Canvas (tutorial)
+#### Canvas (tutorials)
+- http://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial
 
 

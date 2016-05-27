@@ -46,19 +46,11 @@
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial
 
 
-## Friday, May 20th | Hands On
+## Friday, May 20th | Baking Your Code
 
-Goal: Publish a Canvas or SVG animation.
-
-- Improving Architecture
-- Scroll handlers & Parallax
+- Baking Our Code
 
 ### Homework
-
-
-#### Task (1 task)
-
-- Improve your project site
 
 #### Command-Line (2 videos)
 - https://developers.google.com/web/shows/ttt/series-1/cmd-line-shortcuts?hl=en

@@ -1,30 +1,34 @@
 
 # Week 7 | Backbone
 
-## Monday, May 23th | Backbone Essentials
+## Wednesday, Jun 1st | Backbone Essentials
 
-- Defensive Programming
-- Scalability
-- Public & Private variables
-- Prototypal Inheritance
 - Backbone Essentials
+- Hands On: A New Todo
+- Prototypal Inheritance
+- Scalability
 
-### Homework
-
-#### Documentation (1 site)
+### Documentation
 
 - http://backbonejs.org/
-
-
-
-
-## Wednesday, May 25th | Backbone MVC
+- http://todomvc.com/examples/backbone/
 
 ### Homework
 
+#### Design Patterns (1 article, 1 site)
 
+- https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/
+- https://github.com/addyosmani/essential-js-design-patterns
 
 
 ## Friday, May 27th | Hands On
 
+- Defensive Programming
+- Unit Testing
+- Hands On: A New Todo
+
 ### Homework
+
+#### Backbone (1 book)
+
+- https://addyosmani.com/blog/backbone-fundamentals/

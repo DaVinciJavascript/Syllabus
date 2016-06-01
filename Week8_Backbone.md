@@ -1,5 +1,5 @@
 
-# Week 7 | Backbone
+# Week 8 | Backbone
 
 ## Wednesday, Jun 1st | Backbone Essentials
 

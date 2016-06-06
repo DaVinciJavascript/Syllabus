@@ -21,11 +21,22 @@
 - https://github.com/addyosmani/essential-js-design-patterns
 
 
-## Friday, May 27th | Hands On
+## Friday, May 27th | Backbone 
 
-- Defensive Programming
-- Unit Testing
 - Hands On: A New Todo
+- Defensive Programming
+
+### Homework
+
+#### Backbone (1 book)
+
+- https://addyosmani.com/blog/backbone-fundamentals/
+
+
+## Monday, June 6th | Backbone
+
+- Hands On: A New Todo
+- Unit Testing
 
 ### Homework
 

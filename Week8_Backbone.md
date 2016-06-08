@@ -35,6 +35,18 @@
 
 ## Monday, June 6th | Backbone
 
+- Backbone Hands on
+
+
+### Homework
+
+#### Backbone (1 book)
+
+- https://addyosmani.com/blog/backbone-fundamentals/
+
+
+## Wednesday, June 8th | Backbone
+
 - Hands On: A New Todo
 - Unit Testing
 
@@ -43,3 +55,18 @@
 #### Backbone (1 book)
 
 - https://addyosmani.com/blog/backbone-fundamentals/
+
+
+
+## Friday, June 10th | Backbone
+
+
+- Backbone Hands on
+
+
+### Homework
+
+#### Backbone (1 book)
+
+- https://addyosmani.com/blog/backbone-fundamentals/
+

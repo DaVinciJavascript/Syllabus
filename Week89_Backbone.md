@@ -60,9 +60,7 @@
 
 ## Friday, June 10th | Backbone
 
-
 - Backbone Hands on
-
 
 ### Homework
 

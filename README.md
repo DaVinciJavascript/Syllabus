@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-- You must have a newish Apple laptop, OS X version 10.7 or later, and *an external mouse*.
+- You must have a newish Apple laptop, OSX version 10.7 or later, and *an external mouse*.
 
 - Watch [The Better Parts](https://vimeo.com/97419177) video on Vimeo . You won't understand everything, but it will be good exposure. Douglas offers the best advice available for how to write Javascript. Take notes of any questions that you have along the way.
 
@@ -12,11 +12,11 @@
 
 - Watch all of these [Structure of the Internet](https://www.khanacademy.org/computing/computer-science/internet-intro) videos for some background on the inner workings of the web. 
 
-- Watch *the first six* videos of this [Intro to HTML](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/v/making-webpages-intro) series.
+- Do the twelve free exercises in this [Intro to HTML and CSS](https://www.codecademy.com/learn/web) series.
 
 ---
 
-## Saturday, April 9th | Install Fest
+## Saturday, August 20th | Install Fest
 
 **Goal: Publish a live website & create a public open source repository of your website.**
 

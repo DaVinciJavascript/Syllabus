@@ -2,29 +2,17 @@
 # Week 1 | Modern HTML5 Development
 
 
-
 ## Monday, April 11 | Going Live!
-
-Goal: Publish a live website & create a public open source repository of your website.
 
 - Course Introduction
 - A Brief History of Computing
-- Sublime Text Basics
+- Sublime Text Basics (Keyboard shortcuts)
 - Command-Line Basics
 - Introduction to Git & Node
 - How to use Stackoverflow
 - Publishing a live Website with Heroku
 
-
-
 ### Homework, Watch these Videos
-
-#### Structure of the Internet (6 videos)
-- https://www.khanacademy.org/computing/computer-science/internet-intro
-
-#### Git Patterns (1 game)
-- Go to http://pcottle.github.io/learnGitBranching/, click on the checkmark, select the "Remote" tab at the top of the modal window. Play through the 15 levels shown here.
-
 
 
 ## Wednesday, April 13th | Dev Tools
@@ -34,11 +22,8 @@ Goal: Publish a live website & create a public open source repository of your we
 - Linters, ESLint
 - Parsers, Babel
 
-
 ### Homework
 
-#### HTML (just the first 5 videos)
-- https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/v/making-webpages-intro
 
 #### Photoshop (1 long video)
 - https://css-tricks.com/video-screencasts/72-building-a-website-2-of-3-htmlcss-conversion/

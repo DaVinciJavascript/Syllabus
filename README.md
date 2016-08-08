@@ -6,7 +6,7 @@
 
 - You must have a newish Apple laptop, OSX version 10.7 or later, and *an external mouse*.
 
-- Watch [The Better Parts](https://vimeo.com/97419177) video on Vimeo . You won't understand everything, but it will be good exposure. Douglas offers the best advice available for how to write Javascript. Take notes of any questions that you have along the way.
+- Watch [The Better Parts](https://vimeo.com/97419177) video on Vimeo. You won't understand everything, but it will be good exposure. Douglas offers the best advice available for how to write Javascript. Take notes of any questions that you have along the way.
 
 - Create free accounts on Github.com, Heroku.com and Codepen.io. Make your username and password easy to type- you will need to type them many times.
 
@@ -20,7 +20,7 @@
 
 **Goal: Publish a live website & create a public open source repository of your website.**
 
-*Please do these steps in order.*
+*Please do these steps in order. Do not skip ahead.*
 
 - Download and install Sublime Text 3. When you install Sublime 3, it will open a folder with an icon called Sublime 2 and an Applications folder. Drag the icon into the Applications folder. Launch it and "Check for Updates".
 
@@ -28,15 +28,17 @@
 
 - Install [Sublime Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements).
 
-- Update your [indentation settings](https://www.sublimetext.com/docs/3/indentation.html) in Sublime Text to "2" and "spaces".
+- Update your [indentation settings](https://www.sublimetext.com/docs/3/indentation.html) in Sublime Text to "2" and "spaces". (See Silicon Valley S03 E06)
 
 - Install [Github Desktop](https://help.github.com/desktop/guides/getting-started/installing-github-desktop/). Launch it and "Check for Updates".
 
 - Install [Node.js](https://nodejs.org/en/download/). Node installs as a command-line utility, there is no icon for it in your Applications folder.
 
-- Install [Heroku Toolbelt](https://toolbelt.heroku.com/). Heroku Toolbelt installs as a command-line utility, there is no icon for it in your Applications folder.
+- Install [Heroku Toolbelt](https://toolbelt.heroku.com/). Toolbelt installs as a command-line utility, there is no icon for it in your Applications folder.
 
 - Go to Github.com and create a new repository. Consult with the facilitator to clone the repository, copy the server template and upload to Heroku.
+
+- Consult with the facilitator to get access to the class respository. Add your name to the Readme.md file.
 
 ---
 

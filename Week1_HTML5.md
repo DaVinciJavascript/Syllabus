@@ -35,25 +35,23 @@
 
 - Do this [Javascript Tutorial](http://javascript.info/).
 
-- Imagine you are an interviewer. Think in ten questions about JavaScript that will help you to determine the skill level of a candidate. Share it with a friend that is also doing the course and answer their questions.
+- Pick out one site you think is good from [Awwwards](http://www.awwwards.com/).
+
+
 
 ## Friday, August 27th
 
-- Scope, `this` and `window`
-- jQuery onReady, jQuery Modules
-- ES5 and Require.js
-- ES6 and `import` statements
-- Module Packagers, Webpack
-- Linters, ESLint
-- Parsers, Babel
-
+- Development Tools
+- Managing Dependencies
+- Loaders
+- Packagers
+- Linters
+- Parsers
 
 ### Homework
 
 - Read [Javascript for Cats](http://jsforcats.com/).
 
-- Read the first three chapters of [You Dont Know Javascript](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going).
+- Do this course about [Chrome Dev Tools](http://discover-devtools.codeschool.com/).
 
-- Pick out one site you think is good from http://www.awwwards.com/
-
-
+- Imagine you are an interviewer. Think in ten questions about JavaScript that will help you to determine the skill level of a candidate. Share it with a friend that is also doing the course and answer their questions.

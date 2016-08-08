@@ -54,4 +54,4 @@
 
 - Do this course about [Chrome Dev Tools](http://discover-devtools.codeschool.com/).
 
-- Imagine you are an interviewer. Think in ten questions about JavaScript that will help you to determine the skill level of a candidate. Share it with a friend that is also doing the course and answer their questions.
+- Imagine you are an interviewer. Think of ten questions about JavaScript that will help you to determine the skill level of a candidate. Share it with a friend that is also doing the course and answer their questions.

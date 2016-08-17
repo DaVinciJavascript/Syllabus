@@ -1,7 +1,5 @@
 # DaVinci Javascript Bootcamp Syllabus
 
----
-
 ## Prerequisites
 
 - You must have a newish Apple laptop, OSX version 10.7 or later, and *an external mouse*.
@@ -60,13 +58,12 @@
 
 - Sharon [Github](http://github.com/372x) [Codepen](http://codepen.io/372x) [Favorite](http://www.rockyrama.com)
 
-- Rick Perez [Github](https://github.com/Perezmothership) [Codepen](http://codepen.io/perezmothership/) [Favorite](http://www.fidotvchannel.com/)
+- Rick [Github](https://github.com/Perezmothership) [Codepen](http://codepen.io/perezmothership/) [Favorite](http://www.fidotvchannel.com/)
 
 - Tory [Github](http://github.com/tsrahm) [Codepen](http://codepen.io/tsrahm/) [Favorite](http://hi-res.net/)
 
 - Jay [Github](http://github.com/jsg7440) [Codepen](http://codepen.io/jsg7440) [Favorite](http://www.underlviv.com.ua/index-en.html)
 
 ---
-
 
 **Join us at the Davinci Institute!**

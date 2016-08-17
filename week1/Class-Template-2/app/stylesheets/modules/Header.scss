@@ -1,0 +1,49 @@
+@import '../variables.scss';
+@import '../mixins/mq.scss';
+
+.header--main {
+  left: 0;
+  padding: $space 0;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+
+  h1 {
+    display: inline-block;
+    font-size: $font-size-3;
+    padding: 0 $space;
+  }
+}
+
+.header--main-nav {
+  display: inline-block;
+  padding: $space/2 $space/3;
+
+  @include mq($S) {
+    float: right;
+    padding: 0 $space;
+  }
+}
+
+.nav-list {
+  padding: 0;
+}
+
+.nav-list-item {
+  display: inline-block;
+  margin: 0 1em 0 0;
+}
+
+.nav-item-link {
+  background: transparent;
+  border-radius: 5px;
+  font-size: $font-size-7;
+  padding: $space/4 $space/2;
+  text-decoration: none;
+  text-transform: uppercase;
+
+  &.active,
+  &:hover {
+    text-decoration: underline;
+  }
+}

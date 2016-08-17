@@ -1,0 +1,10 @@
+// image-replacement()
+//   Add image replacement technique
+//     http://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacement/ */
+//   EXAMPLE
+//     @include image-replacement();
+@mixin image-replacement() {
+  overflow: hidden;
+  text-indent: 100%;
+  white-space: nowrap;
+}

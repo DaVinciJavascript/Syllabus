@@ -1,0 +1,11 @@
+// color-each-pseudo-element-link()
+//   Add color for each link pseudo element
+//   NOTE: remember LVHA (link, visited, hover, active)
+//   EXAMPLE
+//     @include color-each-pseudo-element-link($link-dark, $link-dark, $link-dark-hover, $link-dark-hover);
+@mixin color-each-pseudo-element-link($link, $visited, $hover, $active) {
+  &:link { color: $link; }
+  &:visited { color: $visited; }
+  &:hover { color: $hover; }
+  &:active { color: $active; }
+}

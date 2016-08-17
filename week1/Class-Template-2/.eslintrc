@@ -1,0 +1,29 @@
+{
+  "rules": {
+    "indent": [1, 2],
+    "quotes": [1, "single"],
+    "linebreak-style": [1, "unix"],
+    "no-console": 0,
+    "no-debugger": 0,
+    "react/prop-types": 1,
+    "react/jsx-uses-react": 1,
+    "semi": [2, "always"],
+  },
+  "env": {
+    "es6": true,
+    "node": true,
+    "browser": true
+  },
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true,
+      "modules": true,
+      "experimentalObjectRestSpread": true
+    }
+  },
+  "parser": "babel-eslint",
+  "plugins": [
+    "react"
+  ],
+  "extends": ["eslint:recommended", "plugin:react/recommended"]
+}

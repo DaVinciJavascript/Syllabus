@@ -3,10 +3,10 @@
 
 ## Monday, April 18th
 
-- Tour of CSS3
-- CSS for Layout
-- Bootstrap CSS
-- Publishing to CodePen
+- The State of CSS
+- Layout with CSS
+- 12 column grid
+
 
 ### Examples
 
@@ -17,7 +17,6 @@
 - http://codepen.io/boast/pen/pLjld
 - http://codepen.io/LukyVj/pen/kAvxp
 - http://codepen.io/design8383/pen/EFAzo
-- http://codepen.io/fornyhucker/pen/wklrG
 - http://codepen.io/Rajanand/pen/dKsAb
 - http://codepen.io/somethingkindawierd/pen/tkrqi
 - http://codepen.io/hans/pen/hanBu
@@ -26,25 +25,13 @@
 
 ### Homework
 
-#### Documentation (2 sites)
-- https://getbootstrap.com/css/
-- https://github.com/airbnb/css
-- https://css-tricks.com/snippets/
+- CSS (3 hours) https://www.codecademy.com/learn/learn-sass
 
-#### CSS Layout (6 videos)
-- https://www.khanacademy.org/computing/computer-programming/html-css/css-layout-properties/p/css-grouping-elements
+- CSS Style Guide: https://github.com/airbnb/css
 
-#### CSS (5 videos, 1 article, ~2 hours)
-- https://css-tricks.com/video-screencasts/110-quick-overview-of-css-position-values/
-- https://css-tricks.com/video-screencasts/47-css-shorthand/
-- https://css-tricks.com/video-screencasts/10-fixed-width-fluid-width-elastic-width/
-- https://css-tricks.com/video-screencasts/5-columns-of-equal-height-super-simple-two-column-layout/
-- https://css-tricks.com/video-screencasts/42-all-about-floats-screencast/
-- http://webdesign.tutsplus.com/tutorials/how-to-make-responsive-scrollable-panels-with-flexbox--cms-23269
-- https://css-tricks.com/video-screencasts/140-exploring-css-layout-techniques-while-trying-to-get-a-subtitle-to-wrap/
+- Read this documentation: https://getbootstrap.com/examples/grid/
 
-#### Extra Credit
-- Snippets (pick 4 to learn) 
+
 
 
 ## Wednesday, April 20th | CSS Advanced

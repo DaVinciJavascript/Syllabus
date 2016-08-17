@@ -1,0 +1,13 @@
+@import '../variables.scss';
+
+.sidebar--container {
+  background: $grey-light;
+  box-shadow: 5px 0px 5px -5px $grey;
+  height: 100%;
+  left: 0;
+  padding: $space*4 $space/2 $space/2;
+  position: absolute;
+  top: 0;
+  width: 200px;
+  z-index: 1;
+}

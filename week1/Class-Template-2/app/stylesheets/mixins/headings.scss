@@ -1,0 +1,37 @@
+@import '../variables.scss';
+@import '../functions/general.scss';
+
+// Headings
+//   Dependant on $font-size-* variables
+//               font-size : line-height
+@mixin heading-1() { // 50 : 56
+  font-size: $font-size-1;
+  line-height: get-multiplier(56, $font-size-1);
+}
+
+@mixin heading-2() { // 32 : 36
+  font-size: $font-size-2;
+  line-height: get-multiplier(36, $font-size-2);
+}
+
+@mixin heading-3() { // 24 : 36
+  font-size: $font-size-3;
+  line-height: get-multiplier(30, $font-size-3);
+  font-weight: normal;
+}
+
+@mixin heading-4() { // 18 : 36
+  font-size: $font-size-4;
+  line-height: get-multiplier(24, $font-size-4);
+  font-weight: normal;
+}
+
+@mixin heading-5() { // 16 : 24
+  font-size: $font-size-base; // $font-size-5
+  line-height: get-multiplier(24, $font-size-base);
+}
+
+@mixin heading-6() { // 14 : 18
+  font-size: $font-size-6;
+  line-height: get-multiplier(18, $font-size-6);
+}

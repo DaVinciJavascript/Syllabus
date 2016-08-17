@@ -1,0 +1,102 @@
+// 01._typography.scss
+@import '../variables.scss';
+@import '../mixins/headings.scss';
+@import '../functions/general.scss';
+
+/********************************************************** Typography */
+
+body {
+  color: $black;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: $font-size-base; // 16px
+  -webkit-font-smoothing: antialiased;
+  // Optionally control font size based on breakpoints                  
+  //@include mq($M) { font-size: get-multiplier(17, $font-size-base) + em; } // 17px = 1.0625em
+  //@include mq($L) { font-size: get-multiplier(18, $font-size-base) + em; } // 18px = 1.125em
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+
+// tag and CLASS
+h1, 
+.heading-1 { @include heading-1(); }
+
+h2, 
+.heading-2 { @include heading-2(); }
+
+h3, 
+.heading-3 { @include heading-3(); }
+
+h4, 
+.heading-4 { @include heading-4(); }
+
+h5, 
+.heading-5 { @include heading-5(); }
+
+h6, 
+.heading-6 { @include heading-6(); }
+
+
+p {
+  line-height: get-multiplier(24, $font-size-base); // 24/16
+  margin: 0;
+  padding: 0 0 $space;
+}
+
+ul,
+ol,
+dl {
+  line-height: get-multiplier(24, $font-size-base); // 24/16
+  list-style: none;
+  margin: 0 0 0 $space;
+  padding: 0 0 ($space/2);
+}
+
+p  ul,
+ul ul,
+ol ul,
+p  ol,
+ul ol,
+ol ol {
+  padding-bottom: 0;
+}
+
+strong {
+  font-weight: bold;
+}
+
+code {
+  font-size: $font-size-6;
+  line-height: get-multiplier(24, $font-size-6); // 24/14
+}
+
+
+/********************************************************** Icons */
+
+/*
+[class^='icon-'], [class*=' icon-'] {
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== * /
+  -moz-osx-font-smoothing: grayscale;
+
+
+  // hide icon names when fontface is supported
+  .fontface & span { display: none; }
+}
+*/

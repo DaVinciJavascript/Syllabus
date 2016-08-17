@@ -1,0 +1,35 @@
+// fixed-ratio()
+//   Calculate fixed ratio based on two dimensions (width/height)
+//     http://voormedia.com/blog/2012/11/responsive-background-images-with-fixed-or-fluid-aspect-ratios
+//   EXAMPLE
+//     @include fixed-ratio(800px 450px); // width height
+@mixin fixed-ratio($size) {
+  $width:  nth($size, 1);
+  $height: nth($size, 2);
+  $slope: $height / $width;
+
+  @include background-size('cover');
+  background-position: center;  /* Internet Explorer 7/8 */
+  padding-top: percentage($slope);
+}
+
+
+// fluid-ratio()
+//   Calculate fluid ratio based on two dimensions (width/height)
+//     http://voormedia.com/blog/2012/11/responsive-background-images-with-fixed-or-fluid-aspect-ratios
+//   EXAMPLE
+//     @include fluid-ratio(800px 200px, 300px 150px); // width height, width height
+@mixin fluid-ratio($large-size, $small-size) {
+  $width-large: nth($large-size, 1);
+  $width-small: nth($small-size, 1);
+  $height-large: nth($large-size, 2);
+  $height-small: nth($small-size, 2);
+  $slope: ($height-large - $height-small) / ($width-large - $width-small);
+  $height: $height-small - $width-small * $slope;
+  
+  @include background-size('cover');
+
+  background-position: center;  /* Internet Explorer 7/8 */
+  height: $height;
+  padding-top: percentage($slope);
+}

@@ -1,0 +1,20 @@
+// strip-units()
+//   Remove units from a Sass value with units (em, px, etc.)
+//     http://stackoverflow.com/questions/12328259/how-do-you-strip-the-unit-from-any-number-in-sass#answer-12335841
+//   EXAMPLE
+//     strip-units($my-var);
+@function strip-units($number) {
+  @return $number / ($number * 0 + 1);
+}
+
+
+// get-multiplier()
+//   Get the multiplier for the pixel value divided by the current/contextual font size
+//   EXAMPLE
+//     get-multiplier(24, $font-size-h4);
+@function get-multiplier($px-value, $current-font-size) {
+  @return ($px-value / strip-units($current-font-size * $vertical-rhythm-base));
+  // EXAMPLE 30px /            (    3em               *          16px        )
+  //         30px /                                  48px
+  //                        = .625
+}

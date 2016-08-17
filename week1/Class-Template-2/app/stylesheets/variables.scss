@@ -1,0 +1,49 @@
+// _variables.scss
+//   NOTE: Variables should be named general to specific
+
+@import 'functions/general.scss';
+
+// Breakpoints
+// NOTE: When updating make sure to sync with JS variables (/source/js/apps/master/app.js)
+$breakpoint-s: 38em; // *16 = 608
+$breakpoint-m: 57em; // *16 = 912
+$breakpoint-l: 82em; // *16 = 1312
+
+
+// Media Queries
+$S: 'min-width:'+ $breakpoint-s;
+$M: 'min-width:'+ $breakpoint-m;
+$L: 'min-width:'+ $breakpoint-l;
+
+
+// Color Pallete
+$white: #fff;
+$black: #000;
+$grey: #666;
+$grey-light: #ECEFF1;
+$grey-light-2: #CFD8DC;
+
+
+// Typography
+$vertical-rhythm-base: 16; // 16px default browser font size
+$vertical-rhythm: 24;      // 24px vertical rhythm
+
+$font-size-base: 1em; // Use browser default font-size, usually 16px
+
+// Font Size Variables
+//   Dependant on get-multiplier()
+$font-size-1: get-multiplier(50, $font-size-base) + 0em; // 50px
+$font-size-2: get-multiplier(32, $font-size-base) + 0em; // 32px
+$font-size-3: get-multiplier(22, $font-size-base) + 0em; // 22px
+$font-size-4: get-multiplier(18, $font-size-base) + 0em; // 18px
+$font-size-5: $font-size-base;                           // 16px
+$font-size-6: get-multiplier(14, $font-size-base) + 0em; // 14px
+$font-size-7: get-multiplier(11, $font-size-base) + 0em; // 11px
+
+
+// Spacing
+$space: ($vertical-rhythm / $vertical-rhythm-base) + 0em; // 24px to follow vertical rhythm
+
+
+// Extra
+$radius: $space /2;

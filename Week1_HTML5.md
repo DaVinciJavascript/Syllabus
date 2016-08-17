@@ -22,7 +22,7 @@
 - Do this [Git Challenge](https://try.github.io/levels/1/challenges/1).
 
 
-## Wednesday, August 25th
+## Wednesday, August 25th | History & Concepts
 
 - A Nonlinear History of Computing
 - Constraints
@@ -39,7 +39,7 @@
 
 
 
-## Friday, August 27th
+## Friday, August 27th | Tooling
 
 - Development Tools
 - Managing Dependencies

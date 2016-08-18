@@ -10,10 +10,6 @@ require('bootstrap');
 import './stylesheets/base.scss';
 import _ from 'underscore';
 
-// some extras
-// import { TweenLite } from 'gsap';
-// import Backbone from 'backbone';
-
 // on document load
 $(function(){
 
@@ -34,10 +30,6 @@ $(function(){
   $('#root').html(compiledTemplate({name: '<fruit>'}));
 
   // optionally animate that content
-  // TweenLite.to($('#root'), 1, {fontSize: 50}).play();
-  
-  // we can use Backbone too
-  // var view = Backbone.View.extend({});
-  // console.log(view);
+  $('#root button').animate({fontSize: 50}, 1000);
 
 });

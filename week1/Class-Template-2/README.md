@@ -11,6 +11,7 @@
 
 # To Launch
 
+- `npm install`
 - `npm start`
 
 # To Create Server

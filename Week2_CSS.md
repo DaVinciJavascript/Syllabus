@@ -1,14 +1,16 @@
 
-# Week 2 | CSS Fundamentals
+# Week 2 | CSS Advanced
 
-## Monday, April 18th
+## Monday, April 18th | Cascading Style Sheets
 
+- CodePen for Prototyping
 - The State of CSS
-- Layout with CSS
-- 12 column grid
+- CSS References 
+- Cascading Specificity
+- Erik Meyer & CSSReset
+- The Box Model
 
-
-### Examples
+### CodePen Examples To Review
 
 - http://codepen.io/chrismcolvin/pen/rxExvm
 - http://codepen.io/ademilter/pen/Dwelk
@@ -22,54 +24,30 @@
 - http://codepen.io/hans/pen/hanBu
 - http://codepen.io/flik185/pen/jWjyGQ
 
-
 ### Homework
 
-- CSS (3 hours) https://www.codecademy.com/learn/learn-sass
+- Go through the [Codecademy CSS Course](https://www.codecademy.com/learn/learn-sass) (3 hours)
 
-- CSS Style Guide: https://github.com/airbnb/css
+- Select a [CSS Design Pattern](http://labs.jensimmons.com/) and create an example of it on CodePen
 
-- Read this documentation: https://getbootstrap.com/examples/grid/
-
-
+- Read the [AirBnb CSS Style Guide](https://github.com/airbnb/css). Carefully compare the "correct" examples with the "incorrect examples".
 
 
-## Wednesday, April 20th | CSS Advanced
+
+## Wednesday, April 20th | Bootstrap for Layout
 
 Goal: Publish a CSS design on Codepen
 
 - Web Fonts
-- HTML Templates
-- Accessibility
-- Challenge
+- CSS for Layout
+- 12 column grid
+- Bootstrap Grid
 
 ### Homework
 
-#### More CSS (8 videos, ~3 hours)
-- https://css-tricks.com/video-screencasts/142-hiding-things-with-css/
-- https://css-tricks.com/video-screencasts/97-intro-to-css-animations/
-- https://css-tricks.com/video-screencasts/95-a-tale-of-border-gradients/
-- https://css-tricks.com/video-screencasts/94-intro-to-pseudo-elements/
-- https://css-tricks.com/video-screencasts/93-css3-slideup-boxes/
-- https://css-tricks.com/video-screencasts/82-css-image-switcher/
-- https://css-tricks.com/video-screencasts/24-rounded-corners/
+- Review the first [1/3rd of Bootstraps Documentation](http://getbootstrap.com/css/)
 
-#### Templates (1 video)
-- https://css-tricks.com/video-screencasts/127-basics-of-javascript-templating/
-
-#### Accessibility (1 video)
-- https://css-tricks.com/video-screencasts/51-a-lesson-learned-in-accessibility/
-
-#### CSS Design (4 sites)
-- http://www.cssdesignawards.com/
-- http://swissincss.com/
-- http://motionographer.com/2016/03/31/one-year-of-9-squares/
-- https://vimeo.com/140499151
-
-#### Extra Credit
-- http://www.cssdesignawards.com/
-- http://motionographer.com/2016/03/31/one-year-of-9-squares/
-- https://vimeo.com/140499151
+- Go through this [FreeCodeCamp course on Bootstrap](https://www.freecodecamp.com/challenges/use-responsive-design-with-bootstrap-fluid-containers) (5 hours)
 
 
 
@@ -77,16 +55,17 @@ Goal: Publish a CSS design on Codepen
 
 Goal: Design a Todo application with HTML and CSS.
 
-[bootstrap cheatsheet](http://hackerthemes.com/bootstrap-cheatsheet#list-group)
+- CSS Techniques
+- Creating the HTML for a Todo App
 
 ### Homework
 
-#### Code Review (1 article)
-- https://addyosmani.com/blog/lessons-from-a-javascript-code-review/
+- Pick 4 [CSS Snippets](https://css-tricks.com/snippets/) to learn. Create a CodePen example of them. 
 
-#### Javascript (22 videos)
-- https://www.khanacademy.org/computing/computer-programming/html-css-js
+#### CSS-Tricks (4 videos, 2 hours)
+- https://css-tricks.com/video-screencasts/110-quick-overview-of-css-position-values/
+- https://css-tricks.com/video-screencasts/47-css-shorthand/
+- https://css-tricks.com/video-screencasts/42-all-about-floats-screencast/
+- https://css-tricks.com/video-screencasts/140-exploring-css-layout-techniques-while-trying-to-get-a-subtitle-to-wrap/
 
-
-
-
+- ...

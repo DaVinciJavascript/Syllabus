@@ -17,5 +17,9 @@
 # To Create Server
 
 - `heroku create`
+- `npm run prod`
+- `git add .`
+- `git commit -m "launching server"`
+- `git push heroku master`
 - `heroku open`
 

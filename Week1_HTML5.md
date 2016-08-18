@@ -16,8 +16,9 @@
 
 - Read this article on [Being a Coder](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329#.ihbjgkrya)
 
-- Review this [Git Guide](http://rogerdudler.github.io/git-guide/).
+- Read this article about [how hard it is to be a programmer](https://techcrunch.com/2014/05/24/dont-believe-anyone-who-tells-you-learning-to-code-is-easy/).
 
+- Review this [Git Guide](http://rogerdudler.github.io/git-guide/).
 
 - Do this [Git Challenge](https://try.github.io/levels/1/challenges/1).
 
@@ -33,11 +34,9 @@
 
 - Read the [Preface to "You Dont Know Javascript"](https://github.com/getify/You-Dont-Know-JS/blob/master/preface.md).
 
-- Do this [Javascript Tutorial](http://javascript.info/).
-
 - Pick out one site you think is good from [Awwwards](http://www.awwwards.com/).
 
-
+- Complete this [review of HTML and CSS](https://www.freecodecamp.com/challenges/say-hello-to-html-elements) (5 hours)
 
 ## Friday, August 27th | Tooling
 
@@ -54,4 +53,6 @@
 
 - Do this course about [Chrome Dev Tools](http://discover-devtools.codeschool.com/).
 
-- Imagine you are an interviewer. Think of ten questions about JavaScript that will help you to determine the skill level of a candidate. Share it with a friend that is also doing the course and answer their questions.
+- ...
+
+

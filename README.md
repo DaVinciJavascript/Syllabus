@@ -66,4 +66,4 @@
 
 ---
 
-**Join us at the Davinci Institute!**
+**[Join DaVinci on Meetup.com](https://www.meetup.com/DaVinci-Coders/events/)**

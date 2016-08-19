@@ -24,8 +24,7 @@
   - [Part 2](http://preethikasireddy.me/?p=231)
   - [Part 3](http://preethikasireddy.me/?p=278)
 - Read [Eloquent Javascript, Chapter 12](http://eloquentjavascript.net/12_browser.html) and [Chapter 13](http://eloquentjavascript.net/13_dom.html)
-- Review this [Git Guide](http://rogerdudler.github.io/git-guide/)
-- Do this [Git Challenge](https://try.github.io/levels/1/challenges/1)
+- Review this [Git Guide](http://rogerdudler.github.io/git-guide/) and do this [Git Challenge](https://try.github.io/levels/1/challenges/1)
 - Read [You Don't Know Javascipt, Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
 
 ## Wednesday, August 25th | History & Concepts

@@ -47,7 +47,7 @@ Goal: Publish a CSS design on Codepen
 
 ### Homework (4 hours)
 
-- Read one of the CSS Guides above. Carefully compare the "correct" examples with the "incorrect examples".
+- Read one of the CSS Guides above. Carefully compare the "correct" examples with the "incorrect" examples.
 - Review the first [1/3rd of Bootstraps Documentation](http://getbootstrap.com/css/)
 - Read this article on the [12-Column Grid System](http://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521)
 - Watch these CSS-Tricks video (2 hours)

@@ -36,7 +36,7 @@
 
 ### Homework
 
--FreeCodeCamp Javascript (10 hours)
+- FreeCodeCamp Javascript (10 hours)
 https://www.freecodecamp.com/challenges/comment-your-javascript-code
 
 

@@ -14,13 +14,15 @@
 
 ### Homework
 
-- Read this article on [Being a Coder](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329#.ihbjgkrya)
+- Read these articles about learning to program 
+-- [Being a Coder](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329#.ihbjgkrya)
+-- [I began teaching myself to code a year ago](https://www.reddit.com/r/learnprogramming/comments/4y7e3d/i_began_teaching_myself_to_code_a_year_ago_i_got/)
+-- [My Journey to becoming a Web Developer](My journey to becoming a web developer)
+-- [Don't believe anyone who tells you coding is easy](https://techcrunch.com/2014/05/24/dont-believe-anyone-who-tells-you-learning-to-code-is-easy/)
 
-- Read this article about [how hard it is to be a programmer](https://techcrunch.com/2014/05/24/dont-believe-anyone-who-tells-you-learning-to-code-is-easy/).
+- Review this [Git Guide](http://rogerdudler.github.io/git-guide/)
 
-- Review this [Git Guide](http://rogerdudler.github.io/git-guide/).
-
-- Do this [Git Challenge](https://try.github.io/levels/1/challenges/1).
+- Do this [Git Challenge](https://try.github.io/levels/1/challenges/1)
 
 
 ## Wednesday, August 25th | History & Concepts
@@ -34,9 +36,9 @@
 
 - Read the [Preface to "You Dont Know Javascript"](https://github.com/getify/You-Dont-Know-JS/blob/master/preface.md).
 
-- Pick out one site you think is good from [Awwwards](http://www.awwwards.com/).
-
 - Complete this [review of HTML and CSS](https://www.freecodecamp.com/challenges/say-hello-to-html-elements) (5 hours)
+
+
 
 ## Friday, August 27th | Tooling
 
@@ -49,10 +51,9 @@
 
 ### Homework
 
-- Read [Javascript for Cats](http://jsforcats.com/).
+- Go through the [Codecademy CSS Course](https://www.codecademy.com/learn/learn-sass) (3 hours)
 
-- Do this course about [Chrome Dev Tools](http://discover-devtools.codeschool.com/).
+- Read the [AirBnb CSS Style Guide](https://github.com/airbnb/css). Carefully compare the "correct" examples with the "incorrect examples".
 
-- ...
-
+- Pick out one site you think is good from [Awwwards](http://www.awwwards.com/).
 

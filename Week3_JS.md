@@ -1,64 +1,42 @@
 
-# Week 3 | Javascript & jQuery
+# Week 3 | Javascript
+
+## Monday, September 5th | Javascript
 
 
+- Javascript Types
+
+- Scopes & Closures
 
 
-## Monday, April 25th | Javascript
-
-- Object-oriented Programming
-- A Refresher on Algebra 
-- Classes & Inheritance
-- Scope & Closures
-- ES6 Syntax
-- JSON
 
 ### Homework
 
-#### jQuery (16 videos)
-- https://www.khanacademy.org/computing/computer-programming/html-js-jquery
-
-#### jQuery (2 videos)
-- https://css-tricks.com/video-screencasts/20-introduction-to-jquery/
-- https://css-tricks.com/video-screencasts/35-intro-to-jquery-2/
+- Read You Don't Know Javascript Part 2, [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch1.md), [Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch2.md) and [Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch3.md)
 
 
 
-## Wednesday, April 27th | jQuery
 
-- jQuery Documentation
-- Selections Sets
-- DOM Manipulation
-- Events
-- Chaining
-- Animation
-- jQuery Tools
+
+## Wednesday, September 7th | 
+
+- ...
 
 ### Homework
 
-#### Documentation (3 sites)
-- https://getbootstrap.com/components/
-- https://getbootstrap.com/javascript/
-- http://www.w3schools.com/bootstrap/default.asp
+- Read You Don't Know Javascript Part 2, [Chapter 4](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch4.md) and [Chapter 5](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch5.md)
 
 
-## Friday, April 29th | Bootstrap
 
-Goal: Design a working Todo application with Bootstrap and jQuery.
 
-- Bootstrap Javascript
-- Modules vs Classes
-- MVC Design Pattern
-- TODO MVC
+
+## Friday, September 9th | 
+
+- ...
 
 ### Homework
 
-#### Crushing Bugs (3 videos)
-- https://addyosmani.com/blog/chrome-devtools-deepdive/
-- https://addyosmani.com/blog/essential-js-namespacing/
-- https://vimeo.com/133137606
-
-### Task (1 task)
-- Add a Custom Font to your Todo App
+-FreeCodeCamp Javascript (10 hours)
+https://www.freecodecamp.com/challenges/comment-your-javascript-code
 
 

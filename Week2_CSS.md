@@ -4,10 +4,10 @@
 ## Monday, August 29th | Cascading Style Sheets
 
 - CodePen for Prototyping
-- The State of CSS
+- The State of CSS3
 - CSS References 
 - Cascading Specificity
-- Erik Meyer & CSSReset
+- Erik Meyer & CSS Reset
 - The Box Model
 
 ### CodePen Examples To Review
@@ -27,6 +27,8 @@
 ### Homework (5 hours)
 
 - Go through this [FreeCodeCamp course on Bootstrap](https://www.freecodecamp.com/challenges/use-responsive-design-with-bootstrap-fluid-containers) (5 hours)
+
+
 
 
 
@@ -55,23 +57,26 @@ Goal: Publish a CSS design on Codepen
   - https://css-tricks.com/video-screencasts/47-css-shorthand/
   - https://css-tricks.com/video-screencasts/42-all-about-floats-screencast/
   - https://css-tricks.com/video-screencasts/140-exploring-css-layout-techniques-while-trying-to-get-a-subtitle-to-wrap/
-- Pick four [CSS Snippets](https://css-tricks.com/snippets/) to learn. Create CodePen examples of them. 
+- Pick four [CSS Snippets](https://css-tricks.com/snippets/) to learn. Create CodePen examples of each. 
+
+
+
 
 
 
 ## Friday, September 2nd | Hands On
 
-Goal: Design a Todo application with HTML and CSS.
+Goal: Create the HTML and CSS for a Todo application.
 
 - Alternatives to Bootstrap
 - CSS Techniques
 - Creating the HTML for a Todo App
 
-### Homework (5 hours)
+### Homework (5.5 hours)
 
 - Read [You Don't Know Javascipt, Part 1, Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md) and [Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch3.md)
 - Go through the 24 lessons of this [Web Development Course](https://www.khanacademy.org/computing/computer-programming/html-css-js) (2 hours)
-- Read these articles about Javascript (1 hour) 
+- Read these articles about Javascript (2 hour) 
   - [Javascript for Cats](http://jsforcats.com/)
   - [Semantic Frontend Architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
   - [The Two Pillars of Javascript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.uz19k7j06)

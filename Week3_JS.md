@@ -1,26 +1,37 @@
 
-# Week 3 | Javascript
+# Week 3 | Introduction to Javascript
 
-## Monday, September 5th | Javascript
+## Monday, September 5th | Keywords
+
+- Object-oriented Programming
+- Core Principles
+- Keywords
+- Comments
+- Declarations
+- Document & Window
+- Loose Typing
+- What's Wrong with Javascript?
+- Vanilla JS
 
 
-- Javascript Types
-
-- Scopes & Closures
-
-
-
-### Homework
+### Homework (4 hours)
 
 - Read You Don't Know Javascript Part 2, [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch1.md), [Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch2.md) and [Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch3.md)
 
+- Read this article on [Object-oriented Programming in Javascript](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
+
+- Read [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/#intro), all of it
+
+- Read Eloquent Javascript [Chapter 1](http://eloquentjavascript.net/01_values.html) and [Chapter 2](http://eloquentjavascript.net/02_program_structure.html)
 
 
 
+## Wednesday, September 7th | Class & Scope
 
-## Wednesday, September 7th | 
+- Conditionals
+- Classical/Prototypal Inheritance 
+- Scope
 
-- ...
 
 ### Homework
 
@@ -30,7 +41,7 @@
 
 
 
-## Friday, September 9th | 
+## Friday, September 9th | Objects & Functions
 
 - ...
 

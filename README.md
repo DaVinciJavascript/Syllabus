@@ -10,7 +10,7 @@
 
 - Watch all of these [Structure of the Internet](https://www.khanacademy.org/computing/computer-science/internet-intro) videos for some background on the inner workings of the web. 
 
-- Do the twelve free exercises in this [Intro to HTML and CSS](https://www.codecademy.com/learn/web) series.
+- Do the twelve free exercises in this [Intro to HTML and CSS](https://www.khanacademy.org/computing/computer-programming/html-css) series.
 
 ---
 
@@ -19,6 +19,8 @@
 **Goal: Publish a live website & create a public open source repository of your website.**
 
 *Please do these steps in order. Do not skip ahead.*
+
+- Download and install Chrome and Firefox.
 
 - Download and install Sublime Text 3. When you install Sublime 3, it will open a folder with an icon called Sublime 2 and an Applications folder. Drag the icon into the Applications folder. Launch it and "Check for Updates".
 

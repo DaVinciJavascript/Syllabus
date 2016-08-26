@@ -13,6 +13,8 @@
 
 ### Homework
 
+- Read You Don't Know Javascript Part 6, [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch1.md) 
+
 #### Task (1 task)
 
 - Improve your project site
@@ -27,6 +29,9 @@
 - Hands On: CSS Animation
 
 ### Homework
+
+- Read You Don't Know Javascript Part 6, [Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch2.md) 
+
 
 #### Color Resources (create bookmarks)
 - https://color.adobe.com/
@@ -55,6 +60,9 @@
 - Hands on: make a stopwatch
 
 ### Homework
+
+- Read You Don't Know Javascript Part 6, [Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch3.md) 
+
 
 #### Web Animation (1 article)
 - https://medium.com/@adaptivepath/jedi-principles-of-ui-animation-2b88423b1dac#.jq1nzx2qu

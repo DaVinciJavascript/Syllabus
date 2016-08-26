@@ -1,10 +1,13 @@
-# Week 4 | Javascript Advanced
+# Week 5 | Javascript Advanced
 
-## Monday, May 2nd | Hands On
+## Monday | Hands On
 
 Goal: Finish up Todo App
 
 ### Homework
+
+- Read You Don't Know Javascript Part 5, [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch1.md) and [Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch2.md)
+
 
 #### Functional Javascript (4 videos)
 - https://www.youtube.com/watch?v=PB_d3uBkQPs
@@ -17,7 +20,7 @@ Goal: Finish up Todo App
 
 
 
-## Wednesday, May 4th | Functional Javascript
+## Wednesday | Functional Javascript
 
 - Types Revisited
 - Iterators
@@ -28,6 +31,9 @@ Hands-on: Use Underscore in our Todo App
 
 ### Homework
 
+- Read You Don't Know Javascript Part 5, [Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch3.md) 
+
+
 #### Documentation (1 site)
 - http://underscorejs.org/
 
@@ -36,7 +42,7 @@ Hands-on: Use Underscore in our Todo App
 
 
 
-## Friday, May 6th | Local Storage
+## Friday | Local Storage
 
 Goal: Create a working Todo application that uses Local Storage on Heroku
 
@@ -46,6 +52,9 @@ Goal: Create a working Todo application that uses Local Storage on Heroku
 
 
 ### Homework
+
+- Read You Don't Know Javascript Part 5, [Chapter 4](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch4.md), [Chapter 5](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch5.md) and [Chapter 6](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch6.md)
+
 
 #### Web Animation (1 article)
 - http://webdesign.tutsplus.com/tutorials/adding-appeal-to-your-animations-on-the-web--cms-23649

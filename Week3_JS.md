@@ -15,11 +15,13 @@
 
 ### Homework (5 hours)
 
-- Read You Don't Know Javascript Part 2, [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch1.md), [Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch2.md) and [Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch3.md)
+- Read You Don't Know Javascript, Part 3, [Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch3.md)
 
 - Read Eloquent Javascript [Chapter 1](http://eloquentjavascript.net/01_values.html), [Chapter 2](http://eloquentjavascript.net/02_program_structure.html) and [Chapter 4](http://eloquentjavascript.net/04_data.html)
 
 - Do the first 1/3rd of this [FreeCodeCamp Javascript](https://www.freecodecamp.com/challenges/comment-your-javascript-code) (3 hours)
+
+
 
 
 ## Friday, September 9th | Values & Expressions
@@ -38,6 +40,8 @@
 - Do the rest of this [FreeCodeCamp Javascript](https://www.freecodecamp.com/challenges/comment-your-javascript-code) (7 hours)
 
 
+
+
 ## Monday, September 12th | Functions & Inheritance
 
 - The Event Loop
@@ -50,7 +54,7 @@
 
 ### Homework (3 hours)
 
-- Read You Don't Know Javascript Part 2, [Chapter 4](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch4.md) and [Chapter 5](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch5.md)
+- Read You Don't Know Javascript, Part 2, [Chapters 1 through 5](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
 
 - Read [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/#intro), all of it
 

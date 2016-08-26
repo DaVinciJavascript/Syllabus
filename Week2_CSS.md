@@ -48,7 +48,7 @@ Goal: Publish a CSS design on Codepen
 - [Maintainable CSS](http://maintainablecss.com/chapters/introduction/)
 - [AirBnb CSS Style Guide](https://github.com/airbnb/css)
 
-### Homework (4 hours)
+### Homework (4.5 hours)
 
 - Read one of the CSS Guides above. Carefully compare the "correct" examples with the "incorrect" examples.
 - Review the first [1/3rd of Bootstraps Documentation](http://getbootstrap.com/css/)
@@ -59,7 +59,7 @@ Goal: Publish a CSS design on Codepen
   - https://css-tricks.com/video-screencasts/42-all-about-floats-screencast/
   - https://css-tricks.com/video-screencasts/140-exploring-css-layout-techniques-while-trying-to-get-a-subtitle-to-wrap/
 - Pick four [CSS Snippets](https://css-tricks.com/snippets/) to learn. Create CodePen examples of each. 
-
+- Read [You Don't Know Javascipt, Part 1, Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md) and [Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch3.md)
 
 
 
@@ -73,9 +73,9 @@ Goal: Create the HTML and CSS for a Todo application.
 - CSS Techniques
 - Creating the HTML for a Todo App
 
-### Homework (5.5 hours)
+### Homework (6.5 hours)
 
-- Read [You Don't Know Javascipt, Part 1, Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md) and [Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch3.md)
+- Read You Don't Know Javascript Part 4, [Chapters 1 through 5](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
 - Go through the 24 lessons of this [Web Development Course](https://www.khanacademy.org/computing/computer-programming/html-css-js) (2 hours)
 - Read these articles about Javascript (2 hour) 
   - [Javascript for Cats](http://jsforcats.com/)

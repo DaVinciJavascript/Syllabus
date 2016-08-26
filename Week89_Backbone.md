@@ -15,6 +15,11 @@
 
 ### Homework
 
+
+- Read You Don't Know Javascript Part 6, [Chapter 7](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch7.md) 
+
+
+
 #### Design Patterns (1 article, 1 site)
 
 - https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/
@@ -27,6 +32,8 @@
 - Defensive Programming
 
 ### Homework
+
+- Read You Don't Know Javascript Part 6, [Chapter 8](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch8.md) 
 
 #### Backbone (1 book)
 

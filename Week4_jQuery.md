@@ -1,7 +1,7 @@
 
 # Week 4 | jQuery
 
-## Monday
+## Wednesday
 
 - jQuery
 - Chaining
@@ -14,14 +14,14 @@ https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready
 
 
 
-## Wednesday
+## Friday
 
 
 ### Homework
 
 
 
-## Friday
+## Monday
 
 
 ### Homework

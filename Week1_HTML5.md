@@ -34,8 +34,9 @@
 - A Nonlinear History of Computing
 - Constraints
 - Black Box Abstraction
-- What is a object?
 - Wat? How do i Function?
+- What's Wrong with Javascript? Part 1
+- Javascript Types
 
 ### Homework (5 hours)
 
@@ -50,12 +51,9 @@
 
 ## Friday, August 27th | Tooling
 
-- Development Tools
-- Managing Dependencies
-- Loaders
-- Packagers
-- Linters
-- Parsers
+- Chrome Development Tools
+- Setting up a Development Environment
+- Loaders, Packagers, Linters and Parsers, Oh my
 
 ### Homework (4.5 hours)
 

@@ -1,53 +1,58 @@
 
 # Week 3 | Introduction to Javascript
 
-## Monday, September 5th | Keywords
+## Wednesday, September 7th | Keywords
 
 - Object-oriented Programming
-- Core Principles
 - Keywords
 - Comments
 - Declarations
 - Document & Window
 - Loose Typing
-- What's Wrong with Javascript?
+- What's Wrong with Javascript? Part 2
 - Vanilla JS
 
 
-### Homework (4 hours)
+### Homework (5 hours)
 
 - Read You Don't Know Javascript Part 2, [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch1.md), [Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch2.md) and [Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch3.md)
 
-- Read this article on [Object-oriented Programming in Javascript](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
+- Read Eloquent Javascript [Chapter 1](http://eloquentjavascript.net/01_values.html), [Chapter 2](http://eloquentjavascript.net/02_program_structure.html) and [Chapter 4](http://eloquentjavascript.net/04_data.html)
 
-- Read [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/#intro), all of it
-
-- Read Eloquent Javascript [Chapter 1](http://eloquentjavascript.net/01_values.html) and [Chapter 2](http://eloquentjavascript.net/02_program_structure.html)
+- Do the first 1/3rd of this [FreeCodeCamp Javascript](https://www.freecodecamp.com/challenges/comment-your-javascript-code) (3 hours)
 
 
+## Friday, September 9th | Values & Expressions
 
-## Wednesday, September 7th | Class & Scope
+- Math
+- Strings & Arrays
+- Objects & JSON
+- Functions, Methods, Arguments
 
-- Conditionals
-- Classical/Prototypal Inheritance 
-- Scope
+### Homework (8.5 hours)
+
+- Read Eloquent Javascript [Chapter 3](http://eloquentjavascript.net/03_functions.html)
+
+- Read this article on [Object-oriented Programming](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/), this article about [Anonymous Functions](http://helephant.com/2008/08/23/javascript-anonymous-functions/) and this article about [Javascript Closures](https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.7ebzw6uhu)
+
+- Do the rest of this [FreeCodeCamp Javascript](https://www.freecodecamp.com/challenges/comment-your-javascript-code) (7 hours)
 
 
-### Homework
+## Monday, September 12th | Functions & Inheritance
+
+- The Event Loop
+- Timing Functions
+- This, Call, Apply, Bind
+- Scope & Hoisting
+- Prototypal Inheritance 
+- Class Inheritance
+- Behavior Composition with Mixins
+
+### Homework (3 hours)
 
 - Read You Don't Know Javascript Part 2, [Chapter 4](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch4.md) and [Chapter 5](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch5.md)
 
+- Read [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/#intro), all of it
 
-
-
-
-## Friday, September 9th | Objects & Functions
-
-- ...
-
-### Homework
-
-- FreeCodeCamp Javascript (10 hours)
-https://www.freecodecamp.com/challenges/comment-your-javascript-code
-
+- Read this article on [the `this` keyword](https://rainsoft.io/gentle-explanation-of-this-in-javascript/) and this article on [Prototypal Inheritance](http://alistapart.com/article/prototypal-object-oriented-programming-using-javascript)
 

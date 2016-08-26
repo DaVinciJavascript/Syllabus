@@ -59,4 +59,5 @@
 
 - Go through the [Codecademy CSS course](https://www.codecademy.com/learn/learn-sass) (3 hours)
 - Go through the [Khan Academy course on CSS Layout](https://www.khanacademy.org/computing/computer-programming/html-css/css-layout-properties/p/css-grouping-elements) (1 hour)
+- Read this article about [ES6 Modules](https://hacks.mozilla.org/2015/08/es6-in-depth-modules/)
 - Pick out one site you think is good from [Awwwards](http://www.awwwards.com/)

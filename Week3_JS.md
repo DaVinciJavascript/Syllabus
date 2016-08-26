@@ -39,7 +39,7 @@
 
 - Do the rest of this [FreeCodeCamp Javascript](https://www.freecodecamp.com/challenges/comment-your-javascript-code) (7 hours)
 
-
+- Imagine you are an interviewer. Think of ten questions about Javascript that will help you to determine the skill level of a candidate. Share it with a friend that is also doing the course and answer their questions
 
 
 ## Monday, September 12th | Functions & Inheritance

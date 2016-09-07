@@ -15,16 +15,16 @@
 - Read this article about [Web Animation](https://medium.com/@adaptivepath/jedi-principles-of-ui-animation-2b88423b1dac#.jq1nzx2qu) and this article about [Color on the Web](https://stories.buffer.com/why-facebook-is-blue-ea8b44016ab2#.nzlz3kkh6)
 - Read You Don't Know Javascript Part 4, [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch1.md), [Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch2.md) and [Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch3.md)
 - Accessibility (1 video, 9 Tips)
--- https://css-tricks.com/video-screencasts/51-a-lesson-learned-in-accessibility/
--- http://a11yproject.com/posts/skip-nav-links/
--- http://a11yproject.com/posts/title-attributes/
--- http://a11yproject.com/posts/how-to-use-application-role/
--- http://a11yproject.com/posts/how-to-hide-content/
--- http://a11yproject.com/posts/myth-screen-readers-dont-use-javascript/
--- http://a11yproject.com/posts/myth-accessibility-is-blind-people/
--- http://a11yproject.com/posts/never-use-maximum-scale/
--- http://a11yproject.com/posts/aria-landmark-roles/
--- http://a11yproject.com/posts/alt-text/
+  - https://css-tricks.com/video-screencasts/51-a-lesson-learned-in-accessibility/
+  - http://a11yproject.com/posts/skip-nav-links/
+  - http://a11yproject.com/posts/title-attributes/
+  - http://a11yproject.com/posts/how-to-use-application-role/
+  - http://a11yproject.com/posts/how-to-hide-content/
+  - http://a11yproject.com/posts/myth-screen-readers-dont-use-javascript/
+  - http://a11yproject.com/posts/myth-accessibility-is-blind-people/
+  - http://a11yproject.com/posts/never-use-maximum-scale/
+  - http://a11yproject.com/posts/aria-landmark-roles/
+  - http://a11yproject.com/posts/alt-text/
 - Read all about the event system in [Eloquent Javascript, Chapter 14](http://eloquentjavascript.net/14_event.html)
 
 
@@ -39,13 +39,13 @@
 
 - Read You Don't Know Javascript Part 4, [Chapter 4](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch4.md) and [Chapter 5](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch5.md)
 - More CSS-Tricks Videos (3 hours)
--- https://css-tricks.com/video-screencasts/94-intro-to-pseudo-elements/
--- https://css-tricks.com/video-screencasts/142-hiding-things-with-css/
--- https://css-tricks.com/video-screencasts/95-a-tale-of-border-gradients/
--- https://css-tricks.com/video-screencasts/24-rounded-corners/
--- https://css-tricks.com/video-screencasts/97-intro-to-css-animations/
--- https://css-tricks.com/video-screencasts/93-css3-slideup-boxes/
--- https://css-tricks.com/video-screencasts/82-css-image-switcher/
+  - https://css-tricks.com/video-screencasts/94-intro-to-pseudo-elements/
+  - https://css-tricks.com/video-screencasts/142-hiding-things-with-css/
+  - https://css-tricks.com/video-screencasts/95-a-tale-of-border-gradients/
+  - https://css-tricks.com/video-screencasts/24-rounded-corners/
+  - https://css-tricks.com/video-screencasts/97-intro-to-css-animations/
+  - https://css-tricks.com/video-screencasts/93-css3-slideup-boxes/
+  - https://css-tricks.com/video-screencasts/82-css-image-switcher/
 - Create a 3D CSS Composition on CodePen based on this [Frontend Challenge](https://www.smashingmagazine.com/2016/07/front-end-challenge-accepted-css-3d-cube/)
 
 

@@ -65,7 +65,6 @@
 - Read You Don't Know Javascript Part 5, [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch1.md), [Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch2.md) and [Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch3.md) 
 - Read this article about [Web Animation](https://developers.google.com/web/fundamentals/design-and-ui/animations/?hl=en) and the eight topics linked at the bottom of the page
 - Read about [how to make a game](http://eloquentjavascript.net/15_game.html)
-
 - Watch this [CSS-Tricks video about Animation](https://css-tricks.com/video-screencasts/79-complete-jquery-animations/)
 
 

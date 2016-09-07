@@ -1,30 +1,21 @@
 
 # Week 5 | Web Animation
 
-## Wednesday, September 21st | Colors & Images
+## Wednesday, September 21st | Media
 
 - Agile Ceremonies
 - Accessibility
 - Finding Colors and Images
-- Troubleshooting
+- Audio, Video and Animated GIF
 - Hands On
 - CodePen Challenge
 
-### Homework (2.5 hours)
+### Homework (3 hours)
 
-- Read this article about [Web Animation](https://medium.com/@adaptivepath/jedi-principles-of-ui-animation-2b88423b1dac#.jq1nzx2qu) and this article about [Color on the Web](https://stories.buffer.com/why-facebook-is-blue-ea8b44016ab2#.nzlz3kkh6)
+- Read this article about [Web Animation](https://medium.com/@adaptivepath/jedi-principles-of-ui-animation-2b88423b1dac#.jq1nzx2qu), this article about [Color on the Web](https://stories.buffer.com/why-facebook-is-blue-ea8b44016ab2#.nzlz3kkh6) and this article about [Web Video](https://www.smashingmagazine.com/2016/04/html5-media-source-extensions-bringing-production-video-web/)
 - Read You Don't Know Javascript Part 4, [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch1.md), [Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch2.md) and [Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch3.md)
-- Accessibility (1 video, 9 Tips)
-  - https://css-tricks.com/video-screencasts/51-a-lesson-learned-in-accessibility/
-  - http://a11yproject.com/posts/skip-nav-links/
-  - http://a11yproject.com/posts/title-attributes/
-  - http://a11yproject.com/posts/how-to-use-application-role/
-  - http://a11yproject.com/posts/how-to-hide-content/
-  - http://a11yproject.com/posts/myth-screen-readers-dont-use-javascript/
-  - http://a11yproject.com/posts/myth-accessibility-is-blind-people/
-  - http://a11yproject.com/posts/never-use-maximum-scale/
-  - http://a11yproject.com/posts/aria-landmark-roles/
-  - http://a11yproject.com/posts/alt-text/
+- Watch this [CSS Tricks video about Accessibility](https://css-tricks.com/video-screencasts/51-a-lesson-learned-in-accessibility/) (20 minutes)
+- Read the [A11yProject's Recommendations](http://a11yproject.com/)
 - Read all about the event system in [Eloquent Javascript, Chapter 14](http://eloquentjavascript.net/14_event.html)
 
 
@@ -32,6 +23,8 @@
 
 - Handling Events
 - Creating Masks
+- CSS3 Tools
+- CSS Sprites
 - CSS Special Effects
 - Hands On
 

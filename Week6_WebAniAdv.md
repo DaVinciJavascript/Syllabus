@@ -21,7 +21,10 @@
 
 ### Homework
 
-- Read You Don't Know Javascript Part 6, [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch1.md) 
+
+- Read You Don't Know Javascript Part 5, [Chapter 4](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch4.md), [Chapter 5](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch5.md) and [Chapter 6](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch6.md)
+
+
 
 
 
@@ -45,7 +48,7 @@
 
 ### Homework
 
-- Read You Don't Know Javascript Part 6, [Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch2.md) 
+- Read You Don't Know Javascript Part 6, [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch1.md) and [Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch2.md) 
 
 
 #### Canvas (tutorials)

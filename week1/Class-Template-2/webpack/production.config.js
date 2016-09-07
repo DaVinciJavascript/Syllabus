@@ -30,7 +30,7 @@ var configs = {
     loaders: [
       {
         test: /\.js?$|\.jsx?$/,
-        loaders: ['babel?' + JSON.stringify(hmrConfig), 'eslint'],
+        loaders: ['babel'],
         exclude: /node_modules/
       },
       {

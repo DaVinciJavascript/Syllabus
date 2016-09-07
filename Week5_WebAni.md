@@ -23,10 +23,18 @@
 
 - Handling Events
 - Creating Masks
-- CSS3 Tools
 - CSS Sprites
 - CSS Special Effects
 - Hands On
+
+
+### CSS Tools (make bookmarks)
+
+- http://lea.verou.me/css3patterns/
+- http://bennettfeely.com/gradients/ 
+- http://bennettfeely.com/clippy/
+- http://www.colorzilla.com/gradient-editor/
+- http://www.flaticon.com/
 
 ### Homework (4.5 hours)
 
@@ -39,7 +47,7 @@
   - https://css-tricks.com/video-screencasts/97-intro-to-css-animations/
   - https://css-tricks.com/video-screencasts/93-css3-slideup-boxes/
   - https://css-tricks.com/video-screencasts/82-css-image-switcher/
-- Create a 3D CSS Composition on CodePen based on this [Frontend Challenge](https://www.smashingmagazine.com/2016/07/front-end-challenge-accepted-css-3d-cube/)
+- Challenge: Create a 3D CSS Composition on CodePen based on this [Frontend Challenge](https://www.smashingmagazine.com/2016/07/front-end-challenge-accepted-css-3d-cube/)
 
 
 

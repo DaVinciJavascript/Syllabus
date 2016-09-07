@@ -13,7 +13,8 @@
 
 ### Homework
 
-- Read You Don't Know Javascript Part 6, [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch1.md) 
+- Read You Don't Know Javascript Part 5, [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch1.md) and [Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch2.md)
+
 
 #### Task (1 task)
 
@@ -30,7 +31,8 @@
 
 ### Homework
 
-- Read You Don't Know Javascript Part 6, [Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch2.md) 
+- Read You Don't Know Javascript Part 5, [Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch3.md) 
+
 
 
 #### Color Resources (create bookmarks)
@@ -45,9 +47,6 @@
 #### Easing (1 video)
 - https://developers.google.com/web/fundamentals/design-and-ui/animations/the-basics-of-easing?hl=en
 
-#### Event Loop (1 video)
-- https://www.youtube.com/watch?v=8aGhZQkoFbQ
-
 
 
 
@@ -61,8 +60,7 @@
 
 ### Homework
 
-- Read You Don't Know Javascript Part 6, [Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch3.md) 
-
+- Read You Don't Know Javascript Part 5, [Chapter 4](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch4.md), [Chapter 5](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch5.md) and [Chapter 6](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch6.md)
 
 #### Web Animation (1 article)
 - https://medium.com/@adaptivepath/jedi-principles-of-ui-animation-2b88423b1dac#.jq1nzx2qu

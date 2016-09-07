@@ -1,7 +1,7 @@
 
-# Week 4 | jQuery
+# Week 4 | Introduction to jQuery
 
-## Wednesday, September 14th | Introduction to jQuery
+## Wednesday, September 14th | Sizzle
 
 - jQuery Documentation
 - Selections Sets

@@ -9,7 +9,7 @@
 - Declarations
 - Document & Window
 - Loose Typing
-- What's Wrong with Javascript? Part 2
+- What's Wrong with Javascript, Part 2
 - Vanilla JS
 
 
@@ -34,7 +34,7 @@
 - Read Eloquent Javascript [Chapter 3](http://eloquentjavascript.net/03_functions.html)
 - Read this article on [Object-oriented Programming](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/), this article about [Anonymous Functions](http://helephant.com/2008/08/23/javascript-anonymous-functions/) and this article about [Javascript Closures](https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.7ebzw6uhu)
 - Do the rest of this [FreeCodeCamp Javascript](https://www.freecodecamp.com/challenges/comment-your-javascript-code) (7 hours)
-- Imagine you are an interviewer. Think of ten questions about Javascript that will help you to determine the skill level of a candidate. Share it with a friend that is also doing the course and answer their questions
+- Imagine you are an interviewer, Think of ten questions about Javascript that will help you to determine the skill level of a candidate, Share it with a friend that is also doing the course and answer their questions
 
 
 ## Monday, September 12th | Functions & Inheritance

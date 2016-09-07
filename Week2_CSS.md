@@ -3,6 +3,8 @@
 
 ## Monday, August 29th | Cascading Style Sheets
 
+- "Don't Kill Kittens" Expidition
+
 - CodePen for Prototyping
 - The State of CSS3
 - CSS References 
@@ -53,7 +55,7 @@ Goal: Publish a CSS design on Codepen
 - Read one of the CSS Guides above. Carefully compare the "correct" examples with the "incorrect" examples.
 - Review the first [1/3rd of Bootstraps Documentation](http://getbootstrap.com/css/)
 - Read this article on the [12-Column Grid System](http://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521)
-- Watch these CSS-Tricks video (2 hours)
+- Watch these CSS Tricks videos (2 hours)
   - https://css-tricks.com/video-screencasts/110-quick-overview-of-css-position-values/
   - https://css-tricks.com/video-screencasts/47-css-shorthand/
   - https://css-tricks.com/video-screencasts/42-all-about-floats-screencast/
@@ -76,7 +78,7 @@ Goal: Create the HTML and CSS for a Todo application.
 ### Homework (6.5 hours)
 
 - Read You Don't Know Javascript Part 4, [Chapters 1 through 5](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
-- Go through the 24 lessons of this [Web Development Course](https://www.khanacademy.org/computing/computer-programming/html-css-js) (2 hours)
+- Do the 24 lessons of this [Web Development Course](https://www.khanacademy.org/computing/computer-programming/html-css-js) (2 hours)
 - Read these articles about Javascript (2 hour) 
   - [Javascript for Cats](http://jsforcats.com/)
   - [Semantic Frontend Architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)

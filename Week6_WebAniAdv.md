@@ -1,6 +1,6 @@
 
 
-# Week 7 | Web Animation Advanced
+# Week 6 | Web Animation Advanced
 
 
 ## Monday, May 16th | SVG with D3.js
@@ -21,7 +21,8 @@
 
 ### Homework
 
-- Read You Don't Know Javascript Part 6, [Chapter 4](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch4.md) 
+- Read You Don't Know Javascript Part 6, [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch1.md) 
+
 
 
 #### SVG (1 site)
@@ -44,7 +45,7 @@
 
 ### Homework
 
-- Read You Don't Know Javascript Part 6, [Chapter 5](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch5.md) 
+- Read You Don't Know Javascript Part 6, [Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch2.md) 
 
 
 #### Canvas (tutorials)
@@ -58,7 +59,8 @@
 
 ### Homework
 
-- Read You Don't Know Javascript Part 6, [Chapter 6](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch6.md) 
+- Read You Don't Know Javascript Part 6, [Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch3.md) 
+
 
 
 #### Command-Line (2 videos)

@@ -1,5 +1,8 @@
 # DaVinci Javascript Bootcamp Syllabus
 
+
+
+
 ## Prerequisites
 
 - You must have a newish Apple laptop, OSX version 10.7 or later, and *an external mouse*.

@@ -10,6 +10,19 @@
 - Hands On
 - CodePen Challenge
 
+### Color Resources
+
+- https://color.adobe.com/
+- http://cloford.com/resources/colours/500col.htm
+- http://encycolorpedia.com
+
+### Image Resources
+
+- Google Images
+- Archive.org
+- Flickr
+- Getty Images, Shutter Stock, Adobe Stock
+
 ### Homework (3 hours)
 
 - Read this article about [Web Animation](https://medium.com/@adaptivepath/jedi-principles-of-ui-animation-2b88423b1dac#.jq1nzx2qu), this article about [Color on the Web](https://stories.buffer.com/why-facebook-is-blue-ea8b44016ab2#.nzlz3kkh6) and this article about [Web Video](https://www.smashingmagazine.com/2016/04/html5-media-source-extensions-bringing-production-video-web/)

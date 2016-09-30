@@ -40,5 +40,9 @@
 
 ### Homework
 
+- Take time to think about all the material learned. Ask yourself questions, practice and review old notes.
+
+- Watch this video about (the Event Loop)[https://www.youtube.com/watch?v=8aGhZQkoFbQ]
+
 - Read You Don't Know Javascript Part 6, [Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch3.md)
 

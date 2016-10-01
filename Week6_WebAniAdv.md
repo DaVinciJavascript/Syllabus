@@ -3,7 +3,7 @@
 # Week 6 | Web Animation Advanced
 
 
-## Monday, May 16th | SVG with D3.js
+## Wednesday, September 28th | SVG with D3.js
 
 - Raster vs Vector
 - SVG Animation
@@ -20,7 +20,7 @@
 
 
 
-## Wednesday, May 18th | Canvas with THREE.js
+## Friday, September 30th | Canvas with THREE.js
 
 - Flash and WebGL
 - Canvas
@@ -34,7 +34,7 @@
 - Read this tutorial on [Canvas Animation](http://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/)
 
 
-## Friday, May 20th | Baking Your Code
+## Monday, October 3rd | Baking Your Code
 
 - Baking Our Code
 

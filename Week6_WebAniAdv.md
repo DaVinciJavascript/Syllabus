@@ -18,8 +18,6 @@
   - https://css-tricks.com/video-screencasts/135-three-ways-animate-svg/
 
 
-
-
 ## Friday, September 30th | Canvas with THREE.js
 
 - Flash and WebGL
@@ -38,11 +36,11 @@
 
 - Baking Our Code
 
-### Homework
+### Homework (2.5 hours)
 
 - Take time to think about all the material learned. Ask yourself questions, practice and review old notes.
-
-- Watch this video about (the Event Loop)[https://www.youtube.com/watch?v=8aGhZQkoFbQ]
-
+- Watch this video about [the Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ) (30 mins)
 - Read You Don't Know Javascript Part 6, [Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch3.md)
+- Watch this video on [Commandline Tips & Tricks](https://developers.google.com/web/shows/ttt/series-1/cmd-line-shortcuts?hl=en)
+- Do this course about [Chrome Dev Tools](http://discover-devtools.codeschool.com/) (1 hour)
 

@@ -39,7 +39,7 @@ Hands-on: Use Underscore in our Todo App
 - Watch this video on [Local Storage](https://css-tricks.com/video-screencasts/96-localstorage-for-forms/) (20 mins)
 - Read [Eloquent Javascript Chapter 5](http://eloquentjavascript.net/05_higher_order.html)
 
-## Wednesday, October 12th | Local Storage
+## Monday, October 10th | Local Storage
 
 Goal: Create a working Todo application that uses Local Storage on Heroku
 

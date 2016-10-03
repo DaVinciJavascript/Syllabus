@@ -1,7 +1,7 @@
 
 # Week 8 | Backbone
 
-## Friday, October 14th | Backbone Essentials
+## Wednesday, October 12th | Backbone Essentials
 
 - Backbone Essentials
 - Hands On: A New Todo
@@ -26,7 +26,7 @@
 - https://github.com/addyosmani/essential-js-design-patterns
 
 
-## Monday, October 17th | Backbone 
+## Friday, October 14th | Backbone 
 
 - Hands On: A New Todo
 - Defensive Programming
@@ -40,7 +40,7 @@
 - https://addyosmani.com/blog/backbone-fundamentals/
 
 
-## Wednesday, October 19th | Backbone
+## Monday, October 17th | Backbone
 
 - Backbone Hands on
 
@@ -52,7 +52,7 @@
 - https://addyosmani.com/blog/backbone-fundamentals/
 
 
-## Friday, Ocotber 21st | Backbone
+## Wednesday, October 19th | Backbone
 
 - Hands On: A New Todo
 - Unit Testing
@@ -65,7 +65,7 @@
 
 
 
-## Monday, Ocotber 24th | Backbone
+## Friday, Ocotber 21st | Backbone
 
 - Backbone Hands on
 

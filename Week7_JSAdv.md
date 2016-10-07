@@ -12,7 +12,7 @@
 ### Homework (3.5 hours)
 
 - Read this [Gentle introduction to Functional Programming](https://github.com/ChetHarrison/A-Gentle-Introduction-to-Functional-JavaScript)
-- Read this article on [Default Argumentsin ES6](wesbos.com/javascript-default-function-arguments/)
+- Read this article on [Default Argumentsin ES6](http://wesbos.com/javascript-default-function-arguments/)
 - Do this [FreeCodeCamp course on Functional JS](https://www.freecodecamp.com/challenges/declare-javascript-objects-as-variables) (2 hours)
 - Watch these two videos on Functional Javascript (20 mins)
 -- https://www.youtube.com/watch?v=PB_d3uBkQPs

@@ -5,8 +5,6 @@
 
 - Backbone Essentials
 - Hands On: A New Todo
-- Prototypal Inheritance
-- Scalability
 
 ### Documentation
 
@@ -15,15 +13,9 @@
 
 ### Homework
 
-
 - Read You Don't Know Javascript Part 6, [Chapter 7](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch7.md) 
+- Review the [this keyword](https://rainsoft.io/gentle-explanation-of-this-in-javascript/)
 
-
-
-#### Design Patterns (1 article, 1 site)
-
-- https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/
-- https://github.com/addyosmani/essential-js-design-patterns
 
 
 ## Friday, October 14th | Backbone 
@@ -34,22 +26,19 @@
 ### Homework
 
 - Read You Don't Know Javascript Part 6, [Chapter 8](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch8.md) 
+- Read [Backbone Fundamentals](https://github.com/addyosmani/backbone-fundamentals/blob/gh-pages/backbone-fundamentals.pdf) pages 16-29
 
-#### Backbone (1 book)
-
-- https://addyosmani.com/blog/backbone-fundamentals/
 
 
 ## Monday, October 17th | Backbone
 
 - Backbone Hands on
 
-
 ### Homework
 
-#### Backbone (1 book)
+- Read [Backbone Fundamentals](https://github.com/addyosmani/backbone-fundamentals/blob/gh-pages/backbone-fundamentals.pdf) pages 33-52
 
-- https://addyosmani.com/blog/backbone-fundamentals/
+
 
 
 ## Wednesday, October 19th | Backbone
@@ -59,9 +48,7 @@
 
 ### Homework
 
-#### Backbone (1 book)
-
-- https://addyosmani.com/blog/backbone-fundamentals/
+- Read [Backbone Fundamentals](https://github.com/addyosmani/backbone-fundamentals/blob/gh-pages/backbone-fundamentals.pdf) pages 52-67
 
 
 
@@ -71,7 +58,6 @@
 
 ### Homework
 
-#### Backbone (1 book)
-
-- https://addyosmani.com/blog/backbone-fundamentals/
+- Read [Backbone Fundamentals](https://github.com/addyosmani/backbone-fundamentals/blob/gh-pages/backbone-fundamentals.pdf) pages 68-84
+- Read this article on the [MVVM Design Pattern](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
 

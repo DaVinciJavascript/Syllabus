@@ -57,7 +57,7 @@
 - Read this article introducing [Curry-ing](https://blog.simpleblend.net/functional-javascript-concepts-currying/)
 - Read You Don't Know Javascript Part 6, [Chapter 6](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch6.md) 
 - Read this article on [Web Animation](http://webdesign.tutsplus.com/tutorials/adding-appeal-to-your-animations-on-the-web--cms-23649)
-- Carefully read the [AirBnb Javascript Style Guide](https://github.com/airbnb/javascript/tree/master/es5). Compare the correct examples with the incorrect examples until you can tell the difference.
+- Carefully read the [AirBnb Javascript Style Guide](https://github.com/airbnb/javascript/tree/es5-deprecated/es5). Compare the correct examples with the incorrect examples until you can tell the difference.
 
 
 ### Extra Credit

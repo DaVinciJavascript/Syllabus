@@ -1,5 +1,5 @@
 
-## Monday, June 13th | Node.js
+## Monday, October 24th | Node.js
 
 - Baking Our Backbone Todo App
 - JSON.org
@@ -16,7 +16,7 @@
 #### Networking
 - https://css-tricks.com/video-screencasts/46-domains-dns-hosting-and-google-apps/
 
-## Wednesday, June 15th | APIs
+## Wednesday, October 26th | APIs
 
 - Node.js Express
 - Node.js Router
@@ -30,7 +30,7 @@
 - http://nodeschool.io/index.html#workshoppers
 
 
-## Friday, June 17th | Web Security
+## Friday, October 28th | Web Security
 
 - Cross-domain Restrictions
 - Cookie Forgery
